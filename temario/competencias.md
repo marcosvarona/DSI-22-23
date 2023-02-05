@@ -1,0 +1,7 @@
+# Competencias
+
+|Grado|Competencias específicas
+|-|-
+|ADE|Capacidad para aplicar los sistemas de información en la empresa como soporte a los procesos de la organización
+|Informática|- Capacidad para planificar, concebir, desplegar y dirigir proyectos, servicios y sistemas informáticos en todos los ámbitos, liderando su puesta en marcha y su mejora continua y valorando su impacto económico y social.<br />- Capacidad de comprender y valorar la importancia de la negociación, los hábitos de trabajo efectivos, el liderazgo y las habilidades de comunicación en todos los entornos de desarrollo de software.<br />- Capacidad para elaborar el pliego de condiciones técnicas de una instalación informática que cumpla los estándares y normativas vigentes.<br />- Capacidad para valorar las necesidades del cliente y especificar los requisitos software para satisfacer estas necesidades, reconciliando objetivos en conflicto mediante la búsqueda de compromisos aceptables dentro de las limitaciones derivadas del coste, del tiempo, de la existencia de sistemas ya desarrollados y de las propias organizaciones.<br />- Capacidad de dar solución a problemas de integración en función de las estrategias, estándares y tecnologías disponibles.
+|Industrial|Aplicar los conocimientos básicos sobre empresas en el ámbito industrial y conocer los principios básicos de su organización y gestión, capacitando a su vez para el aprendizaje de nuevos métodos y teorías, dotando de versatilidad para adaptarse a nuevas situaciones
