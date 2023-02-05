@@ -3,7 +3,7 @@
 1. Presentación
 1. Modelos de negocio e innovación
     1. Economía Digital.
-    1. Los modelos de Negocio CANVAS. [:link:](https://eship.ox.ac.uk/business-model-canvas-explained/)
+    1. Los modelos de Negocio CANVAS. [Oxford](https://eship.ox.ac.uk/business-model-canvas-explained/)
     1. Análisis DAFO.
     1. Herramientas de diseño.
     1. Innovación.

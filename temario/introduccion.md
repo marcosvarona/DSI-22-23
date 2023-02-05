@@ -40,11 +40,21 @@ Un sistema de información es un conjunto de elementos orientados al tratamiento
 
 ## ¿Para qué?
 
-### Objetivos
+### Objetivos
 
 * Potenciar las competencias y habilidades propias de la Dirección. Se pretende que el alumno extraiga una visión integrada que le permita comprender los nuevos factores que guían la toma de decisiones en el ámbito de las nuevas tecnologías en la economía.
-
-
+* Se definen los objetivos, funciones  y organización de un área de IT compleja con los distintos roles que debe desempeñar. 
+* Dominar la gestión de los procesos de innovación dentro de las empresas.
+* A lo largo de las sesiones se pretende ofrecer una panorámica de la evolución de las nuevas tecnologías y su impacto en el mundo de la empresa. 
+* El curso pone un especial énfasis en el desarrollo de las tecnologías asociadas a internet y sus consecuencias:
+    * Innovación a través de IT.
+    * Comercio electrónico y sus implicaciones de cara a la estrategia de las empresas en los distintos sectores.
+* Se revisarán mediante el uso de ejemplos reales y casos  algunos temas como:
+    * Las bases tecnológicas.
+    * El planteamiento de negocios en la Red.
+    * Los nuevos modelos que van surgiendo en este nuevo entorno y el impacto de las  nuevas tecnologías de la información y comunicaciones en diferentes áreas de la empresa.
+* Desarrollar el espíritu emprendedor en la gestión empresarial, destinada a la consecución de objetivos y aportar valor añadido a la empresa.
+* Comprender el valor de las herramientas fundamentales en una empresa como los ERP, CRM, SCM y el uso de las nuevas herramientas de sistemas de la información.
 
 ## ¿Cómo?
 
