@@ -39,7 +39,12 @@ Un sistema de información es un conjunto de elementos orientados al tratamiento
 > **Dirección:** acción y efecto de [dirigir](https://dle.rae.es/dirigir) (II, III, IV, V, VI, VII y tomar conciencia de lo que pasa en el X)
 
 ## ¿Para qué?
-Objetivos
+
+### Objetivos
+
+* Potenciar las competencias y habilidades propias de la Dirección. Se pretende que el alumno extraiga una visión integrada que le permita comprender los nuevos factores que guían la toma de decisiones en el ámbito de las nuevas tecnologías en la economía.
+
+
 
 ## ¿Cómo?
 
