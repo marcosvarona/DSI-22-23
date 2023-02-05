@@ -61,7 +61,7 @@ Un sistema de información es un conjunto de elementos orientados al tratamiento
 |Dimensión|Detalle
 |-|-
 |Estratégica|Plan de Estudios & Guía docente / [Competencias](./competencias.md) / [Resultados de Aprendizaje](./resultadosDeAprendizaje.md)
-|Ejecutiva|Temario / Sesiones /  Evaluación
+|Ejecutiva|[Temario](./temario.md) / Sesiones /  Evaluación
 
 
 

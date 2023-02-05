@@ -5,7 +5,7 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 ## Curso [22][23]
 
 * [Intro](./temario/introduccion.md)
-* [Temario](./temario)
+* [Temario](./temario/temario.md)
 * [Proyectos que abordaremos](docs/proyectos.md)
 * [Retos!](retos/readme.md)
 
