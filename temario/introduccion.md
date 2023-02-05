@@ -34,7 +34,9 @@ Un sistema de información es un conjunto de elementos orientados al tratamiento
 
 ### Dirección
 
-*Rae dixit:* **Dirección:** acción y efecto de [dirigir](https://dle.rae.es/dirigir)
+*Rae dixit:* 
+
+> **Dirección:** acción y efecto de [dirigir](https://dle.rae.es/dirigir) (II, III, IV, V, VI, VII y tomar conciencia de lo que pasa en el X)
 
 ## ¿Para qué?
 Objetivos
