@@ -42,19 +42,19 @@ Un sistema de información es un conjunto de elementos orientados al tratamiento
 
 ### Objetivos
 
-* Potenciar las competencias y habilidades propias de la Dirección. Se pretende que el alumno extraiga una visión integrada que le permita comprender los nuevos factores que guían la toma de decisiones en el ámbito de las nuevas tecnologías en la economía.
-* Se definen los objetivos, funciones  y organización de un área de IT compleja con los distintos roles que debe desempeñar. 
-* Dominar la gestión de los procesos de innovación dentro de las empresas.
-* A lo largo de las sesiones se pretende ofrecer una panorámica de la evolución de las nuevas tecnologías y su impacto en el mundo de la empresa. 
-* El curso pone un especial énfasis en el desarrollo de las tecnologías asociadas a internet y sus consecuencias:
+1. Potenciar las competencias y habilidades propias de la Dirección: una visión integrada que permita comprender los nuevos factores que guían la toma de decisiones en el ámbito de las nuevas tecnologías en la economía.
+1. Se definen los objetivos, funciones  y organización de un área de IT compleja con los distintos roles que debe desempeñar. 
+1. Dominar la gestión de los procesos de innovación dentro de las empresas.
+1. A lo largo de las sesiones se pretende ofrecer una panorámica de la evolución de las nuevas tecnologías y su impacto en el mundo de la empresa. 
+1. El curso pone un especial énfasis en el desarrollo de las tecnologías asociadas a internet y sus consecuencias:
     * Innovación a través de IT.
     * Comercio electrónico y sus implicaciones de cara a la estrategia de las empresas en los distintos sectores.
-* Se revisarán mediante el uso de ejemplos reales y casos  algunos temas como:
+1. Se revisarán mediante el uso de ejemplos reales y casos  algunos temas como:
     * Las bases tecnológicas.
     * El planteamiento de negocios en la Red.
     * Los nuevos modelos que van surgiendo en este nuevo entorno y el impacto de las  nuevas tecnologías de la información y comunicaciones en diferentes áreas de la empresa.
-* Desarrollar el espíritu emprendedor en la gestión empresarial, destinada a la consecución de objetivos y aportar valor añadido a la empresa.
-* Comprender el valor de las herramientas fundamentales en una empresa como los ERP, CRM, SCM y el uso de las nuevas herramientas de sistemas de la información.
+1. Desarrollar el espíritu emprendedor en la gestión empresarial, destinada a la consecución de objetivos y aportar valor añadido a la empresa.
+1. Comprender el valor de las herramientas fundamentales en una empresa como los ERP, CRM, SCM y el uso de las nuevas herramientas de sistemas de la información.
 
 ## ¿Cómo?
 
@@ -62,3 +62,14 @@ Un sistema de información es un conjunto de elementos orientados al tratamiento
 |-|-
 |Estratégica|Plan de Estudios & Guía docente
 |Ejecutiva|Cronograma, Sesiones, Evaluación
+
+### Competencias
+|Grados|Generales|Específicas
+|-|-|-
+|ADE|CG|Capacidad para aplicar los sistemas de información en la empresa como soporte a los procesos de la organización
+|Informática|CG|CE08 - Capacidad para planificar, concebir, desplegar y dirigir proyectos, servicios y sistemas informáticos en todos los ámbitos, liderando su puesta en marcha y su mejora continua y valorando su impacto económico y social.<br />CE09 - Capacidad de comprender y valorar la importancia de la negociación, los hábitos de trabajo efectivos, el liderazgo y las habilidades de comunicación en todos los entornos de desarrollo de software.<br />CE10 - Capacidad para elaborar el pliego de condiciones técnicas de una instalación informática que cumpla los estándares y normativas vigentes.<br />CE26 - Capacidad para valorar las necesidades del cliente y especificar los requisitos software para satisfacer estas necesidades, reconciliando objetivos en conflicto mediante la búsqueda de compromisos aceptables dentro de las limitaciones derivadas del coste, del tiempo, de la existencia de sistemas ya desarrollados y de las propias organizaciones.<br />CE27 - Capacidad de dar solución a problemas de integración en función de las estrategias, estándares y tecnologías disponibles.
+|
+
+
+
+CE08 - Capacidad para planificar, concebir, desplegar y dirigir proyectos, servicios y sistemas informáticos en todos los ámbitos, liderando su puesta en marcha y su mejora continua y valorando su impacto económico y social.<br />CE09 - Capacidad de comprender y valorar la importancia de la negociación, los hábitos de trabajo efectivos, el liderazgo y las habilidades de comunicación en todos los entornos de desarrollo de software.<br />CE10 - Capacidad para elaborar el pliego de condiciones técnicas de una instalación informática que cumpla los estándares y normativas vigentes.<br />CE26 - Capacidad para valorar las necesidades del cliente y especificar los requisitos software para satisfacer estas necesidades, reconciliando objetivos en conflicto mediante la búsqueda de compromisos aceptables dentro de las limitaciones derivadas del coste, del tiempo, de la existencia de sistemas ya desarrollados y de las propias organizaciones.<br />CE27 - Capacidad de dar solución a problemas de integración en función de las estrategias, estándares y tecnologías disponibles.
