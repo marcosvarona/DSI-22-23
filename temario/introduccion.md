@@ -5,7 +5,7 @@
 Al 2021, se estima que existen alrededor de 4.900 millones de usuarios de internet en todo el mundo, lo que representa aproximadamente el 60% de la población mundial.
 
 |Continente|Tasa de penetración de internet
-|-|-
+|-|-:
 Norte de Europa|96%
 Europa Oriental|93%
 Norteamérica|90%
@@ -21,7 +21,7 @@ Asia Occidental|50%
 ### Un minuto
 
 Characteristic|Amount per minute
--|-
+-|-:
 Emails sent|231,400,000
 Cryptocurrency purchased (USD)|90,200,000
 Texts sent|16,000,000
@@ -39,6 +39,32 @@ USD spent on DoorDash|76,400
 > [Datos a Abril de 2022](https://www.statista.com/statistics/195140/new-user-generated-content-uploaded-by-users-per-minute/)
 
 
+### Usuario @ Modelos de negocio
+
+Término|Relacionado a...
+-|-
+Prosumidor|productor-consumidor
+Sellsumer|seller-consumer
+Iniciativas crowd|Crowdsourcing, crowdfunding, crowdgifting, etc.
+Consumo colaborativo|Ccoworking, carpooling, carsharing, alquiler entre particulares, bancos de tiempo, etc.
+
+### Velocidad de generación de la información
+
+Período|Cantidad
+-|-:
+Hasta el 2003|5 [exabytes](https://es.wikipedia.org/wiki/Exabyte)
+Solo en el 2007|281 exabytes
+
+[Infografía de Acens acerca del exabyte](https://blog.acens.com/wp-content/images/infografia-2014-el-fin-del-mega-acens-cloud.jpg)
+
+### #2Think
+
+- Mi huella digital
+    - En redes sociales
+    - Fuera de redes sociales
+    - Cronología de Google
+
+- IoT / AI / Cloud / Big Data
 
 ## ¿Qué?
 
