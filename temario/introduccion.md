@@ -64,7 +64,22 @@ Un sistema de información es un conjunto de elementos orientados al tratamiento
 |Ejecutiva|Cronograma, Sesiones, Evaluación
 
 ### Competencias
-|Grados|Específicas
-|-|-|-
+
+|Grado|Competencias específicas
+|-|-
 |ADE|Capacidad para aplicar los sistemas de información en la empresa como soporte a los procesos de la organización
-|Informática|CE08 - Capacidad para planificar, concebir, desplegar y dirigir proyectos, servicios y sistemas informáticos en todos los ámbitos, liderando su puesta en marcha y su mejora continua y valorando su impacto económico y social.<br />CE09 - Capacidad de comprender y valorar la importancia de la negociación, los hábitos de trabajo efectivos, el liderazgo y las habilidades de comunicación en todos los entornos de desarrollo de software.<br />CE10 - Capacidad para elaborar el pliego de condiciones técnicas de una instalación informática que cumpla los estándares y normativas vigentes.<br />CE26 - Capacidad para valorar las necesidades del cliente y especificar los requisitos software para satisfacer estas necesidades, reconciliando objetivos en conflicto mediante la búsqueda de compromisos aceptables dentro de las limitaciones derivadas del coste, del tiempo, de la existencia de sistemas ya desarrollados y de las propias organizaciones.<br />CE27 - Capacidad de dar solución a problemas de integración en función de las estrategias, estándares y tecnologías disponibles.
+|Informática|- Capacidad para planificar, concebir, desplegar y dirigir proyectos, servicios y sistemas informáticos en todos los ámbitos, liderando su puesta en marcha y su mejora continua y valorando su impacto económico y social.<br />- Capacidad de comprender y valorar la importancia de la negociación, los hábitos de trabajo efectivos, el liderazgo y las habilidades de comunicación en todos los entornos de desarrollo de software.<br />- Capacidad para elaborar el pliego de condiciones técnicas de una instalación informática que cumpla los estándares y normativas vigentes.<br />- Capacidad para valorar las necesidades del cliente y especificar los requisitos software para satisfacer estas necesidades, reconciliando objetivos en conflicto mediante la búsqueda de compromisos aceptables dentro de las limitaciones derivadas del coste, del tiempo, de la existencia de sistemas ya desarrollados y de las propias organizaciones.<br />- Capacidad de dar solución a problemas de integración en función de las estrategias, estándares y tecnologías disponibles.
+|Industrial|Aplicar los conocimientos básicos sobre empresas en el ámbito industrial y conocer los principios básicos de su organización y gestión, capacitando a su vez para el aprendizaje de nuevos métodos y teorías, dotando de versatilidad para adaptarse a nuevas situaciones
+
+### Resultados de Aprendizaje
+
+|Grado|Resultados de Aprendizaje
+|-|-
+|ADE|Mejorar la competitividad de una organización mediante la utilización de los sistemas de información.<br/> Describir las mejoras que se generan al implantar un sistema de información.<br/> Conocer los conceptos básicos sobre el entorno tecnológico de los sistemas de información
+|Informática|Entender el rol que cumplen los sistemas de información en las empresas<br />Conocer los procesos de software a profundidad y cómo evaluarlos para mejorarlos
+|Industrial|Diseñar, proyectar y planificar procesos, sistemas de producción y operaciones, plantas industriales y dispositivos con finalidades prácticas, económicas y financieras<br />Gestionar los recursos físicos de las empresas industriales o prever sus necesidades, planificar su disposición y programar, dirigir y controlar su utilización<br />Asesorar, organizar y gestionar empresas industriales y de servicios, así como otras instituciones, centros tecnológicos, instalaciones o proyectos, tanto de forma individual como formando redes, y en todas sus áreas funcionales y dimensiones (técnica, organizativa, financiera y humana), con una fuerte orientación emprendedora y de innovación<br />Seleccionar y calcular los indicadores adecuados para la gestión interna de las diferentes áreas de la empresa industrial u organización<br />Tener conocimientos para definir las potencialidades de las empresas industriales u organizaciones y aplicarlos para atender las necesidades de los posibles clientes<br />Realizar mediciones, cálculos, valoraciones, estudios, informes, planes de labores y otros trabajos análogos relacionados con la Ingeniería de Organización Industrial.<br />Diseñar, proyectar, planificar y gestionar la información de una empresa industrial u organización, usando la tecnología y los sistemas adecuados
+
+
+
+
+
