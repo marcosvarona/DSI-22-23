@@ -2,6 +2,43 @@
 
 ## ¿Por qué?
 
+Al 2021, se estima que existen alrededor de 4.900 millones de usuarios de internet en todo el mundo, lo que representa aproximadamente el 60% de la población mundial.
+
+|Continente|Tasa de penetración de internet
+|-|-
+Norte de Europa|96%
+Europa Oriental|93%
+Norteamérica|90%
+América Latina y el Caribe|67%
+Asia Meridional|51%
+Asia Occidental|50%
+África Central y Oriental|22-24%
+
+> La tasa de penetración de Internet se refiere al porcentaje de hogares (con al menos un miembro entre los 16 y los 74 años) que tienen acceso a internet en casa
+
+> [Datos a enero de 2023](https://es.statista.com/estadisticas/541451/penetracion-mundial-de-internet-por-region-del-mundo)
+
+### Un minuto
+
+Characteristic|Amount per minute
+-|-
+Emails sent|231,400,000
+Cryptocurrency purchased (USD)|90,200,000
+Texts sent|16,000,000
+Searches conducted on Google|5,900,000
+Snaps shared on Snapchat|2,430,000
+Pieces of content shared on Facebook|1,700,000
+Swipes on Tinder|1,100,000
+Hours streamed|1,000,000
+USD spent on Amazon|443,000
+USD sent on Venmo|437,600
+Tweets shared on Twitter|347,200
+Hours spent in Zoom meetings|104,600
+USD spent on DoorDash|76,400
+
+> [Datos a Abril de 2022](https://www.statista.com/statistics/195140/new-user-generated-content-uploaded-by-users-per-minute/)
+
+
 
 ## ¿Qué?
 
@@ -61,7 +98,7 @@ Un sistema de información es un conjunto de elementos orientados al tratamiento
 |Dimensión|Detalle
 |-|-
 |Estratégica|Plan de Estudios & Guía docente / [Competencias](./competencias.md) / [Resultados de Aprendizaje](./resultadosDeAprendizaje.md)
-|Ejecutiva|[Temario](./temario.md) / [Sesiones](https://docs.google.com/spreadsheets/d/106_hqbH8_U0hYLfYHcha7SrZP-wTm2scg5PHYZabSB4/edit#gid=1238964059) /  Evaluación
+|Ejecutiva|[Temario](./temario.md) / [Sesiones](https://docs.google.com/spreadsheets/d/106_hqbH8_U0hYLfYHcha7SrZP-wTm2scg5PHYZabSB4/edit#gid=1238964059) /  [Evaluación](./evaluacion.md)
 
 
 
