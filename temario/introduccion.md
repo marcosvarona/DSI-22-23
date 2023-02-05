@@ -20,13 +20,21 @@
 
 #### Sistema complejo
 
-Un Sistema Complejo es aquel cuya complejidad excede la capacidad intelectual humana — Booch
+> Un Sistema Complejo es aquel cuya complejidad excede la capacidad intelectual humana — Booch
+
+[Complejidad...](https://docs.google.com/presentation/d/1FBjSPhSYrgBQjVp8HefkiJA_AwJU_bq24b8WMz3xzOA/edit?usp=sharing)
 
 ### Información
+
+[Conocimiento...](https://docs.google.com/presentation/d/1QJdg8M0iOwv1gxydwcza6X0dkZmrlaxFf1PH87X7gRo/edit?usp=sharing)
 
 ### Sistema de Información
 
 Un sistema de información es un conjunto de elementos orientados al tratamiento y administración de datos e información, organizados y listos para su uso posterior, generados para cubrir una necesidad o un objetivo
+
+### Dirección
+
+*Rae dixit:* **Dirección:** acción y efecto de [dirigir](https://dle.rae.es/dirigir)
 
 ## ¿Para qué?
 Objetivos
