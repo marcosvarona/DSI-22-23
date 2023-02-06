@@ -101,6 +101,14 @@ Un sistema de información es un conjunto de elementos orientados al tratamiento
 
 > **Dirección:** acción y efecto de [dirigir](https://dle.rae.es/dirigir) (II, III, IV, V, VI, VII y tomar conciencia de lo que pasa en el X)
 
+### Dirección de Sistemas de Información
+
+|D|S|I
+|-|-|-
+Los Sistemas de Información son un mundo apasionante, cambiante, que ofrece cada día nuevos retos y oportunidades de mejora en las organizaciones, y la asignatura “Dirección de Sistemas de Información” prepara al alumnado para abordarlos de forma atractiva y decidida.|En la asignatura estudiaremos las tecnologías de la información y de comunicación desde el punto de vista de su gestión y también de su uso organizativo y social.|La asignatura está enfocada además de a los futuros directores de Sistemas de la Información, a todos los profesionales de la organización que deben comprender la importancia de su papel en la definición, puesta en marcha y mantenimiento de los Sistemas de Información de la empresa.
+
+
+
 ## ¿Para qué?
 
 ### Objetivos
@@ -125,9 +133,3 @@ Un sistema de información es un conjunto de elementos orientados al tratamiento
 |-|-
 |Estratégica|Plan de Estudios & Guía docente / [Competencias](./competencias.md) / [Resultados de Aprendizaje](./resultadosDeAprendizaje.md)
 |Ejecutiva|[Temario](./temario.md) / [Sesiones](https://docs.google.com/spreadsheets/d/106_hqbH8_U0hYLfYHcha7SrZP-wTm2scg5PHYZabSB4/edit#gid=1238964059) /  [Evaluación](./evaluacion.md)
-
-
-
-
-
-

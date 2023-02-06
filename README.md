@@ -11,3 +11,4 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 
 ## Herramientas
 
+* [Glosario de conceptos clave](./temario/glosario.md)
