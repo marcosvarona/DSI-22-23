@@ -15,9 +15,8 @@ El alumno que suspenda en la convocatoria ordinaria deberá examinarse, en la co
 - Presentaremos trabajos en grupo durante todo el año. 
 - Corregiré los trabajos que se presenten en clase. Ningún trabajo *caducará* para su presentación.
 - Los trabajos en grupo tendrán dos notas, el del trabajo/grupo y el de la persona que salga a exponerlo. 
-- Al menos tendréis nota de 2 ejercicios de grupo.
+- Al menos habrá nota de 2 ejercicios de grupo.
 - Intentaremos que el mayor número de personas tenga nota individual, que hará media con el examen parcial.
 - El profesor elije a la persona de cada grupo que sale a presentar el trabajo.
 - En los exámenes parcial y final incluirán al menos un 30% de preguntas referidas a los ejercicios que hagamos en clase.
 - En los trabajos en grupo se indicará los participantes y los NO participantes.
-
