@@ -28,9 +28,9 @@ Se ingresan los números de los alumnos en las celdas amarillas y la hoja hace e
 
 Un grupo se considera correctamente conformado cuando todos los indicadores de la columna de la derecha están en verde.
 
+<div align="center">
 
-Tabla|
+ [Hoja de asistencia de la asignatura](https://docs.google.com/spreadsheets/d/1ODkRS23-FB3Wwlym12cgz4bSi2TRUPy--1tQiZMeXl8/edit?usp=sharing)|
 :-:|
-<img src="https://user-images.githubusercontent.com/8528047/218154626-58f686ff-5808-4112-bb14-c377035da7c6.png" width="50%" />|
-
-
+<img src="https://user-images.githubusercontent.com/8528047/218154626-58f686ff-5808-4112-bb14-c377035da7c6.png" width="75%" />|
+</div>
