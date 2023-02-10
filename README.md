@@ -8,6 +8,7 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 * [Temario](./temario/temario.md)
 * [Bibliografía y lecturas recomendadas](./temario/lecturasBibliografia.md)
 * [Proyectos que abordaremos](docs/proyectos.md)
+  * [Grupos de trabajo](docs/grupos.md)
 * [Retos!](retos/readme.md)
 
 ## Herramientas
