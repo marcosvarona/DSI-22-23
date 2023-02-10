@@ -10,10 +10,20 @@ La conformación de grupos de trabajo se hará de acuerdo a las siguientes direc
 
 Estos grupos de trabajo se mantendrán todo el cuatrimestre para las diferente actividades que realicemos, tanto las colectivas como las individuales.
 
-## Lineamiento para la conformación de grupos
+
+
+## Lineamientos para la conformación de grupos
 
 De acuerdo a lo debatido en clase, la conformación de grupos la gestionan ustedes mismos, teniendo como fecha límite el día lunes a las 13:15h
 
 Si llegada esa hora no se tienen conformados los grupos (atendiendo a las directrices arriba mencionadas), el **reto 001** se considera no superado. 
 
 Para los que no hayan asistido a clase, les notificaremos tanto yo como ustedes.
+
+## Hoja
+
+La definición de los grupos se hará en la pestaña de **Grupos** de la [hoja de asistencia de la asignatura](https://docs.google.com/spreadsheets/d/1ODkRS23-FB3Wwlym12cgz4bSi2TRUPy--1tQiZMeXl8/edit?usp=sharing)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/8528047/218154626-58f686ff-5808-4112-bb14-c377035da7c6.png" width="50%" />
+</div>
