@@ -22,8 +22,15 @@ Para los que no hayan asistido a clase, les notificaremos tanto yo como ustedes.
 
 ## Hoja
 
-La definición de los grupos se hará en la pestaña de **Grupos** de la [hoja de asistencia de la asignatura](https://docs.google.com/spreadsheets/d/1ODkRS23-FB3Wwlym12cgz4bSi2TRUPy--1tQiZMeXl8/edit?usp=sharing)
+La definición de los grupos se hará en la pestaña de **Grupos** de la [hoja de asistencia de la asignatura](https://docs.google.com/spreadsheets/d/1ODkRS23-FB3Wwlym12cgz4bSi2TRUPy--1tQiZMeXl8/edit?usp=sharing), que brinda una ayuda para la construcción de los grupos. 
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/8528047/218154626-58f686ff-5808-4112-bb14-c377035da7c6.png" width="50%" />
-</div>
+Se ingresan los números de los alumnos en las celdas amarillas y la hoja hace el cálculo de los indicadores del grupo. 
+
+Un grupo se considera correctamente conformado cuando todos los indicadores de la columna de la derecha están en verde.
+
+
+Tabla|
+:-:|
+<img src="https://user-images.githubusercontent.com/8528047/218154626-58f686ff-5808-4112-bb14-c377035da7c6.png" width="50%" />|
+
+
