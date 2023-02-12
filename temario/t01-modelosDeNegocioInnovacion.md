@@ -23,6 +23,7 @@
 Enfoque Directivo: alto nivel|Enfoque ejecutivo: más detallada
 Identifica los recursos y capacidades de la empresa para definir los objetivos.|Se asegura que la estrategia se lleva a cabo de modo efectivo.
 **Qué** y **Por qué**|**Cómo**
+![](/images/DALL%C2%B7E%202023-02-12%2021.11.12%20-%20Identifying%20a%20company's%20resources%20and%20capabilities%20to%20define%20goals..png)|
 
 <div align=center>
 
@@ -39,6 +40,14 @@ Por todo esto hace falta un modelo de negocio
 ## ¿Para qué?
 
 Para obtener visión completa y estructurada sobre cómo desarrollar y mantener un modelo de negocio sólido y competitivo en un entorno digital.
+
+- Identificar
+    - Su propuesta de valor
+    - Su segmento de mercado objetivo 
+    - Sus fuentes de ingresos. 
+- Entender y controlar sus costos y gastos
+- Hacer proyecciones financieras realistas. 
+- Tomar decisiones informadas sobre cómo operar y crecer su negocio.
 
 ## ¿Cómo?
 
