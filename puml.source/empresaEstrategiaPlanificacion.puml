@@ -1,0 +1,20 @@
+class Empresa
+
+class Estrategia {
+    Dirección
+    Diferenciacion
+    GestiónRecursosEficiente
+    Flexibilidad
+    MejoraContinua
+}
+
+class Planificacion{
+    ObjetivosClaros
+    AsignaciónDeRecursos
+    AnticipaciónDeProblemas
+    MejoraEficiencia
+    MejorTomaDeDecisiones
+}
+
+Estrategia -r-> Empresa
+Planificacion -l-> Empresa

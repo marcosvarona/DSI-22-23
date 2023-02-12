@@ -10,6 +10,14 @@
 
 </div>
 
+<div align=center>
+
+|Empresa necesita algo más que existir|
+:-:|
+![](/out/puml.source/empresaEstrategiaPlanificacion/empresaEstrategiaPlanificacion.png)|
+
+</div>
+
 ## ¿Qué?
 
 ## ¿Para qué?
