@@ -34,15 +34,15 @@ Identifica los recursos y capacidades de la empresa para definir los objetivos.|
 
 ## ¿Qué?
 
-Modelo de negocio: abstracción de una empresa.
+### Modelo de negocio
 
-Nos dice cómo una empresa genera ingresos y crea valor para sus clientes y accionistas. 
+¿Qué es?|¿Qué nos dice?|¿Qué permite?
+-|-|-
+Abstracción de una empresa|Cómo una empresa genera ingresos y crea valor para sus clientes y accionistas.|Identificar y aprovechar oportunidades de mercado, competir con éxito y crecer de manera sostenible.
 
-Permite a una empresa identificar y aprovechar oportunidades de mercado, competir con éxito y crecer de manera sostenible.
+Concepto dinámico que puede evolucionar con el tiempo y debe ser revisado y ajustado según sea necesario para responder a los cambios en el entorno empresarial. 
 
-MdN: Concepto dinámico que puede evolucionar con el tiempo y debe ser revisado y ajustado según sea necesario para responder a los cambios en el entorno empresarial. 
-
-Un modelo de negocio efectivo debe estar alineado con la estrategia de la empresa y ser sostenible a largo plazo.
+Debe estar alineado con la estrategia de la empresa y ser sostenible a largo plazo.
 
 ## ¿Para qué?
 
