@@ -2,9 +2,15 @@
 
 ## ¿Por qué?
 
+<div align=center>
+![](/out/puml.source/empresa/empresa.png)
+</div>
+
 ## ¿Qué?
 
 ## ¿Para qué?
+
+Para obtener visión completa y estructurada sobre cómo desarrollar y mantener un modelo de negocio sólido y competitivo en un entorno digital.
 
 ## ¿Cómo?
 
