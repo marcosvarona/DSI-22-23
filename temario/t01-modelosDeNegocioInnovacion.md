@@ -6,7 +6,7 @@
 
 |Empresa|
 :-:|
-![](/out/puml.source/empresa/empresa.png)|
+![](/out/puml.source/empresa/empresa.svg)|
 
 </div>
 
@@ -14,7 +14,7 @@
 
 |Empresa necesita algo más que existir|
 :-:|
-![](/out/puml.source/empresaEstrategiaPlanificacion/empresaEstrategiaPlanificacion.png)|
+![](/out/puml.source/empresaEstrategiaPlanificacion/empresaEstrategiaPlanificacion.svg)|
 
 </div>
 

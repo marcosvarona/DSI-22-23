@@ -1,10 +1,6 @@
-@startuml
-
 Organización <|-- Empresa
 Empresa -l-> Ganancias: Busca generar
 Ganancias -d- Accionistas
 Empresa -r-> Valor: Busca generar
 Valor -d- Clientes
 Empresa -d-> BienesServicios:A través de la\nproducción o\n distribución
-
-@enduml
