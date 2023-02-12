@@ -3,7 +3,11 @@
 ## ¿Por qué?
 
 <div align=center>
-![](/out/puml.source/empresa/empresa.png)
+
+|Empresa|
+:-:|
+![](/out/puml.source/empresa/empresa.png)|
+
 </div>
 
 ## ¿Qué?
