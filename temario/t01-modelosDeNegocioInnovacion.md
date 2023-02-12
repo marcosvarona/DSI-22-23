@@ -23,7 +23,6 @@
 Enfoque Directivo: alto nivel|Enfoque ejecutivo: más detallada
 Identifica los recursos y capacidades de la empresa para definir los objetivos.|Se asegura que la estrategia se lleva a cabo de modo efectivo.
 **Qué** y **Por qué**|**Cómo**
-![](/images/DALL%C2%B7E%202023-02-12%2021.11.12%20-%20Identifying%20a%20company's%20resources%20and%20capabilities%20to%20define%20goals..png)|
 
 <div align=center>
 
@@ -35,7 +34,15 @@ Identifica los recursos y capacidades de la empresa para definir los objetivos.|
 
 ## ¿Qué?
 
-Por todo esto hace falta un modelo de negocio
+Modelo de negocio: abstracción de una empresa.
+
+Nos dice cómo una empresa genera ingresos y crea valor para sus clientes y accionistas. 
+
+Permite a una empresa identificar y aprovechar oportunidades de mercado, competir con éxito y crecer de manera sostenible.
+
+MdN: Concepto dinámico que puede evolucionar con el tiempo y debe ser revisado y ajustado según sea necesario para responder a los cambios en el entorno empresarial. 
+
+Un modelo de negocio efectivo debe estar alineado con la estrategia de la empresa y ser sostenible a largo plazo.
 
 ## ¿Para qué?
 
