@@ -1,54 +1,11 @@
 # Temario
 
-1. Presentación
-1. Modelos de negocio e innovación
-    1. Economía Digital.
-    1. Los modelos de Negocio CANVAS. [Oxford](https://eship.ox.ac.uk/business-model-canvas-explained/)
-    1. Análisis DAFO.
-    1. Herramientas de diseño.
-    1. Innovación.
-    1. Tipos de Innovación.
-    1. El Modelo de Innovación como proceso.
-    1. Estrategia de Océano Azul.
-1. Funciones de la dirección de sistemas de información
-    1. Definición de Sistemas de la información en las organizaciones.
-    1. Evolución histórica.
-    1. Recursos Materiales y datos: Elementos básicos (Hardware y Software).
-    1. Personas: Como nos organizamos.
-    1. Actividades de la DSI.
-1. Estrategia y planificación de los sistemas de información
-    1. Transformación digital.
-    1. La organización: usuarios - clientes.
-    1. Evolución histórica.
-    1. Planificación de las TI.
-    1. Selección de la arquitectura empresarial. Caso: Mercado Libre.
-    1. Evaluación, gestión y control de proyectos.
-    1. El capital humano de TI.
-    1. El rol del CIO.
-1. Gestión de proyectos de integración de sistemas
-    1. Objetivos, Introducción e Historia.
-    1. Lenguajes de Programación.
-    1. Metodología de Desarrollo, Ágil, CMMi.
-    1. Tipología de Aplicaciones. ERP
-    1. Caso Práctico: Implantación del ERP en CISCO
-1. Gestión de operaciones
-    1. Objetivos.
-    1. Infraestructura Tecnológica.
-    1. Cloud Computing
-    1. Green IT.
-    1. Virtualización: Virtualización de Servidores.
-    1. Arquitectura Empresarial. 
-1. Gestión de proveedores y seguridad
-    1. Objetivos e introducción a la gestión de servicios.
-    1. Rightsourcing, outsourcing, insourcing, multisourcing. 
-    1. Offshoring. Cómo se implanta y dónde es mejor implantarlo.
-    1. Definición de SLA en procesos de externalización.
-    1. Caso práctico de contrato SLA.
-    1. Seguridad de Información en los negocios.
-    1. Seguridad y privacidad.
-1. Comercio electrónico
-    1. Definición Comercio electrónico.
-    1. Características Comercio electrónico.
-    1. Evolución y situación actual. Éxitos y fracasos.
-    1. Componentes de Negocio electrónico.
-    1. Claves del Comercio electrónico.
+Tema|Algunos puntos que veremos aquí
+-|-
+[Modelos de negocio e innovación](./t01-modelosDeNegocioInnovacion.md)|- Economía Digital.<br />- Los modelos de Negocio CANVAS.<br />- Análisis DAFO.<br />- Innovación.<br />- Tipos de Innovación.<br />- El Modelo de Innovación como proceso.<br />- Estrategia de Océano Azul.
+Funciones de la dirección de sistemas de información|- Definición de Sistemas de la información en las organizaciones.<br />- Evolución histórica.<br />- Recursos Materiales y datos: Elementos básicos (Hardware y Software).<br />- Personas: Como nos organizamos.<br />- Actividades de la DSI.
+Estrategia y planificación de los sistemas de información|- Transformación digital.<br />- La organización: usuarios - clientes.<br />- Evolución histórica.<br />- Planificación de las TI.<br />- Selección de la arquitectura empresarial. Caso: Mercado Libre.<br />- Evaluación, gestión y control de proyectos.<br />- El capital humano de TI.<br />- El rol del CIO.
+Gestión de proyectos de integración de sistemas|- Objetivos, Introducción e Historia.<br />- Lenguajes de Programación.<br />- Metodología de Desarrollo, Ágil, CMMi.<br />- Tipología de Aplicaciones. ERP<br />- Caso Práctico: Implantación del ERP en CISCO
+Gestión de operaciones|- Objetivos.<br />- Infraestructura Tecnológica.<br />- Cloud Computing<br />- Green IT.<br />- Virtualización: Virtualización de Servidores.<br />- Arquitectura Empresarial. 
+Gestión de proveedores y seguridad|- Objetivos e introducción a la gestión de servicios.<br />- Rightsourcing, outsourcing, insourcing, multisourcing. <br />- Offshoring. Cómo se implanta y dónde es mejor implantarlo.<br />- Definición de SLA en procesos de externalización.<br />- Caso práctico de contrato SLA.<br />- Seguridad de Información en los negocios.<br />- Seguridad y privacidad.
+Comercio electrónico|- Definición Comercio electrónico.<br />- Características Comercio electrónico.<br />- Evolución y situación actual. Éxitos y fracasos.<br />- Componentes de Negocio electrónico.<br />- Claves del Comercio electrónico.

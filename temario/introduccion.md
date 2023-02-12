@@ -114,9 +114,9 @@ Los Sistemas de Información son un mundo apasionante, cambiante, que ofrece cad
 ### Objetivos
 
 1. Potenciar las competencias y habilidades propias de la Dirección: una visión integrada que permita comprender los nuevos factores que guían la toma de decisiones en el ámbito de las nuevas tecnologías en la economía.
-1. Se definen los objetivos, funciones  y organización de un área de IT compleja con los distintos roles que debe desempeñar. 
-1. Dominar la gestión de los procesos de innovación dentro de las empresas.
-1. A lo largo de las sesiones se pretende ofrecer una panorámica de la evolución de las nuevas tecnologías y su impacto en el mundo de la empresa. 
+1. Definir los objetivos, funciones  y organización de un área de IT compleja con los distintos roles que debe desempeñar. 
+1. Entender y empezar a aplicar la gestión de los procesos de innovación dentro de las empresas.
+1. Ofrecer una panorámica de la evolución de las nuevas tecnologías y su impacto en el mundo de la empresa. 
 1. El curso pone un especial énfasis en el desarrollo de las tecnologías asociadas a internet y sus consecuencias:
     * Innovación a través de IT.
     * Comercio electrónico y sus implicaciones de cara a la estrategia de las empresas en los distintos sectores.
