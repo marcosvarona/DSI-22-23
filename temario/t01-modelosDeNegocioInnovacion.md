@@ -20,9 +20,11 @@
 
 |Estrategia|Planificación
 -|-
+Estrategia es un plan general para alcanzar uno o más objetivos a largo plazo o generales bajo condiciones de incertidumbre.|Planificar es diseñar un plan detallado para alcanzar objetivos específicos en un futuro determinado, bajo condiciones conocidas o previstas. Es un proceso sistemático de pensamiento y acción para establecer metas y desarrollar un camino para alcanzarlas. 
 Enfoque Directivo: alto nivel|Enfoque ejecutivo: más detallada
 Identifica los recursos y capacidades de la empresa para definir los objetivos.|Se asegura que la estrategia se lleva a cabo de modo efectivo.
 **Qué** y **Por qué**|**Cómo**
+Del griego στρατηγία stratēgia, "arte de liderar tropas; cargo de general, mando, liderazgo".|"Planificar" proviene del latín "planificare", que significa "hacer un plan".
 
 <div align=center>
 
