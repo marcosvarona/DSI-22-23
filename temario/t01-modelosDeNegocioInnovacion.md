@@ -68,7 +68,10 @@ Terciario|Es un sector que no produce bienes, que consiste en proporcionar a la 
 Cuaternario o de información|Actividades relacionadas con el valor intangible de la información, abarcando la gestión y la distribución de dicha información. Este nuevo enfoque surge del concepto de sociedad de la información o sociedad del conocimiento, cuyos antecedentes se remontan al concepto de sociedad postindustrial, acuñado por Daniel Bell.|Investigación, Desarrollo, innovación y divulgación (I+D+i+d)
 Quinario|Relativo a los servicios sin ánimo de lucro|Cultura, educación, arte y entretenimiento.<br />*Sin embargo, las actividades incluidas en este sector varían de unos autores a otros, incluyendo en ocasiones actividades relacionadas con la sanidad*.
 
+> …​ y para explotar el Universo, Galaxias, …​ Planeta, Hidrosfera, …​, Persona, Pie, …​, Bacterias, …​ hay que estudiarlo, investigarlo, analizarlo, sintetizarlo, …​, conocerlo, …​
 
+> No se triunfa de la naturaleza sino obedeciéndola
+— Francis Bacon - Novum Organum. 1620
 
 ## ¿Cómo?
 
