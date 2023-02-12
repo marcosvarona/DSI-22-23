@@ -1,0 +1,7 @@
+class Empresa
+
+
+Estrategia --r-> Empresa:clara
+Planificación --l-> Empresa:adecuada
+
+Estrategia ..r..> Planificación: \n\nGuía a

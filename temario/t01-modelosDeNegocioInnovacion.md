@@ -18,7 +18,23 @@
 
 </div>
 
+|Estrategia|Planificación
+-|-
+Enfoque Directivo: alto nivel|Enfoque ejecutivo: más detallada
+Identifica los recursos y capacidades de la empresa para definir los objetivos.|Se asegura que la estrategia se lleva a cabo de modo efectivo.
+**Qué** y **Por qué**|**Cómo**
+
+<div align=center>
+
+|Empresa, Empresa y Planificación|
+:-:|
+![](/out/puml.source/empresaEstrategiaPlanificacion2/empresaEstrategiaPlanificacion2.svg)|
+
+</div>
+
 ## ¿Qué?
+
+Por todo esto hace falta un modelo de negocio
 
 ## ¿Para qué?
 
