@@ -62,16 +62,15 @@ Para obtener soluciones efectivas, eficaces y eficientes, a partir de sistemas c
 
 Sector Productivo|Descripción|Actividades
 -|-|-
-Primario|Conformado por las actividades económicas relacionadas con la transformación de los recursos naturales en productos primarios no elaborados.|pesca, caza, agricultura, ganadería, apicultura,piscicultura, silvicultura, acuicultura,
-Secundario|Reúne la actividad artesanal e industrial manufacturera, mediante las cuales los bienes provenientes del sector primario son transformados en nuevos productos.|industria minera y petrolífera, envasado, embotellado, manipulación, transformación de materias primas y/o productos semi-elaborados.
-Terciario|Es un sector que no produce bienes, que consiste en proporcionar a la población todos los productos que fabrica la industria, obtiene la agricultura e incluso el mismo sector servicios.|comercio más pequeño, altas finanzas o gobierno.
-Cuaternario o de información|Actividades relacionadas con el valor intangible de la información, abarcando la gestión y la distribución de dicha información. Este nuevo enfoque surge del concepto de sociedad de la información o sociedad del conocimiento, cuyos antecedentes se remontan al concepto de sociedad postindustrial, acuñado por Daniel Bell.|Investigación, Desarrollo, innovación y divulgación (I+D+i+d)
+Primario|Conformado por las actividades económicas relacionadas con la transformación de los recursos naturales en productos primarios no elaborados.|Pesca, caza, agricultura, ganadería, apicultura,piscicultura, silvicultura, acuicultura,
+Secundario|Reúne la actividad artesanal e industrial manufacturera, mediante las cuales los bienes provenientes del sector primario son transformados en nuevos productos.|Industria minera y petrolífera, envasado, embotellado, manipulación, transformación de materias primas y/o productos semi-elaborados.
+Terciario|Es un sector que no produce bienes, que consiste en proporcionar a la población todos los productos que fabrica la industria, obtiene la agricultura e incluso el mismo sector servicios.|Comercio más pequeño, altas finanzas o gobierno.
+Cuaternario o de información|Actividades relacionadas con el valor intangible de la información, abarcando la gestión y la distribución de dicha información.<br />Este nuevo enfoque surge del concepto de sociedad de la información o sociedad del conocimiento, cuyos antecedentes se remontan al concepto de sociedad postindustrial, acuñado por Daniel Bell.|Investigación, Desarrollo, innovación y divulgación (I+D+i+d)
 Quinario|Relativo a los servicios sin ánimo de lucro|Cultura, educación, arte y entretenimiento.<br />*Sin embargo, las actividades incluidas en este sector varían de unos autores a otros, incluyendo en ocasiones actividades relacionadas con la sanidad*.
 
-> …​ y para explotar el Universo, Galaxias, …​ Planeta, Hidrosfera, …​, Persona, Pie, …​, Bacterias, …​ hay que estudiarlo, investigarlo, analizarlo, sintetizarlo, …​, conocerlo, …​
-
-> No se triunfa de la naturaleza sino obedeciéndola
-— Francis Bacon - Novum Organum. 1620
+|||
+-|-
+…​ y para explotar el Universo, Galaxias, …​ Planeta, Hidrosfera, …​, Persona, Pie, …​, Bacterias, …​ hay que estudiarlo, investigarlo, analizarlo, sintetizarlo, …​, conocerlo, …​| *No se triunfa de la naturaleza sino obedeciéndola* — [Francis Bacon - Novum Organum. 1620](https://filosofiamaterialesyrecursos.es/Antologia_de_textos/17_Bacon.pdf)
 
 ## ¿Cómo?
 
