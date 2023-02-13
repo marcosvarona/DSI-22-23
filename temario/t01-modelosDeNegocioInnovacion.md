@@ -53,7 +53,7 @@ Si la abstracción de empresa ya parte de ser concepto dinámico, entonces el ca
 |Innovación|Modelo de Innovación|
 -|-
 El cambio es algo inevitable. ¡Hemos de asumirlo!|![](/out/puml.source/innovacion/innovacion.svg)
-Innovación:las nuevas ideas, soluciones, productos o procesos que se introducen en el mercado o en una organización.|Un modelo de innovación es un enfoque disciplinado, y organizado que permite identificar, desarrollar y implementar nuevas ideas, productos o procesos. 
+**Innovación:** las nuevas ideas, soluciones, productos o procesos que se introducen en el mercado o en una organización.|**Modelo de innovación**: es un enfoque disciplinado y organizado que permite identificar (*requisitos*), crear (*diseño*) e implementar (*desarrollo*) nuevas ideas, productos o procesos. 
 
 
 ## ¿Para qué?
