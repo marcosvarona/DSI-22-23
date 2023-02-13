@@ -42,9 +42,19 @@ Del griego στρατηγία stratēgia, "arte de liderar tropas; cargo de gene
 -|-|-
 Abstracción de una empresa|Cómo una empresa genera ingresos y crea valor para sus clientes y accionistas.|Identificar y aprovechar oportunidades de mercado, competir con éxito y crecer de manera sostenible.
 
+Debe estar alineado con la estrategia de la empresa y ser sostenible a largo plazo.
+
 Concepto dinámico que puede evolucionar con el tiempo y debe ser revisado y ajustado según sea necesario para responder a los cambios en el entorno empresarial. 
 
-Debe estar alineado con la estrategia de la empresa y ser sostenible a largo plazo.
+### Innovación y Modelo de Innovación
+
+Si la abstracción de empresa ya parte de ser concepto dinámico, entonces el cambio es inherente a la empresa.
+
+|Innovación|Modelo de Innovación|
+-|-
+El cambio es algo inevitable. ¡Hemos de asumirlo!|![](/out/puml.source/innovacion/innovacion.svg)
+Innovación:las nuevas ideas, soluciones, productos o procesos que se introducen en el mercado o en una organización.|Un modelo de innovación es un enfoque disciplinado, y organizado que permite identificar, desarrollar y implementar nuevas ideas, productos o procesos. 
+
 
 ## ¿Para qué?
 
@@ -73,6 +83,8 @@ Quinario|Relativo a los servicios sin ánimo de lucro|Cultura, educación, arte 
 |||
 -|-
 <big>…​ y para explotar el Universo, Galaxias, …​ Planeta, Hidrosfera, …​, Persona, Pie, …​, Bacterias, …​ hay que estudiarlo, investigarlo, analizarlo, sintetizarlo, …​, conocerlo, … ​— [Luis Fernandez](https://github.com/USantaTecla-0-general/3-publicaciones/blob/de4d88f4816a72c216ce126685fd457ecc1eebc4/USantaTecla/1-fundamentos/2-conocimiento/index.html#L979)|<big> *No se triunfa de la naturaleza sino obedeciéndola* — [Francis Bacon - Novum Organum. 1620](https://filosofiamaterialesyrecursos.es/Antologia_de_textos/17_Bacon.pdf)
+
+
 
 ## ¿Cómo?
 
