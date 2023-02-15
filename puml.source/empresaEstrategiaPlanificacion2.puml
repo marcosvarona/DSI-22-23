@@ -1,12 +1,10 @@
 class Empresa
 
-
-
-
 Estrategia -u-> Empresa:clara
 Planificación -u-> Empresa:adecuada
 
 Estrategia .r.> Planificación: \n\nGuía a
 Planificación ..> Estrategia: \n\nAyuda a que se cumpla
 
-
+hide class circle
+hide empty members

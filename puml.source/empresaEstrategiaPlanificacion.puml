@@ -26,5 +26,7 @@ class Planificación{
 
 }
 
-Estrategia --r-> Empresa:clara
-Planificación --l-> Empresa:adecuada
+Estrategia ..r.> Empresa:clara
+Planificación ..l.> Empresa:adecuada
+
+hide class circle
