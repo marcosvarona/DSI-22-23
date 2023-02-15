@@ -1,9 +1,16 @@
-Organización <|-- Empresa
-Empresa -l-> Ganancias: Busca generar
-Ganancias -d- Accionistas
-Empresa -r-> Valor: Busca generar
-Valor -d- Clientes
-Empresa -d-> BienesServicios:A través de la\nproducción o\n distribución
 
-hide empty members
-hide class circle
+
+package Empresa {
+    class "Iniciativa Empresarial" as Empresa 
+    Empresa -l- Ganancias: Busca generar >
+    Ganancias -d- Accionistas
+
+    
+    Empresa -d- "Bienes o Servicios": Produciendo o\n distribuyendo >
+}
+
+    Empresa -r- Valor: Busca generar >
+Organización <|-- Empresa
+"Bienes o Servicios" .r.. Clientes
+Valor -d- Clientes
+
