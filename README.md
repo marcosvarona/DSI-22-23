@@ -4,8 +4,8 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 
 ## Curso [22][23]
 
-* [Intro](./temario/introduccion.md)
-* [Temario](./temario/temario.md)
+* [Intro](./temario/t00-introduccion.md)
+* [Temario](./temario)
 * [Glosario de conceptos clave](./temario/glosario.md)
     * [Glosario informático](./temario/glosarioInformatico.md)
     * [Glosario no informático](./temario/glosarioNoInformatico.md)
