@@ -4,3 +4,6 @@ Ganancias -d- Accionistas
 Empresa -r-> Valor: Busca generar
 Valor -d- Clientes
 Empresa -d-> BienesServicios:A través de la\nproducción o\n distribución
+
+hide empty members
+hide class circle
