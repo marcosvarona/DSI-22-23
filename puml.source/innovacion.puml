@@ -1,6 +1,6 @@
 package Empresa {
 
-Empresav001 ...r...> Empresav002:pasa el tiempo\ncambia el ecosistema
+Empresav001 ...r...> Empresav002:pasa el tiempo\ncambia el ecosistema\n\n\n
 
 Empresav001 <-d- Estrategiav001
 Estrategiav001 -d- Planificacionv001
@@ -12,3 +12,7 @@ Estrategiav001 -r- Innovación
 Innovación -r- Estrategiav002
 
 }
+
+
+hide class circle
+hide empty members
