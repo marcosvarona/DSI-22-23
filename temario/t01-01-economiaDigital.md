@@ -62,9 +62,9 @@ Mediados de la primera década del 2000|Aparición y crecimiento de la economía
 
 ### [Artículo de economía digital@Banco Santander](https://www.santander.com/es/stories/economia-digital)
 
-||||
-|-|-|-|
-|La economía digital se refiere al uso de las tecnologías de la información en los procesos de producción de bienes y servicios, así como en su comercialización y consumo.|Este término pone de manifiesto cómo la industria crea productos y servicios nuevos o transforma los existentes, aprovechando la tecnología.|Thomas Mesenbourg explicó en un trabajo publicado en 2001 que existen tres componentes que definen a la economía digital y la diferencian de la tradicional:<br />**Infraestructura** Son los recursos tecnológicos con los que cuenta el negocio. Incluye tanto a los programas informáticos (software), los equipos (hardware) y el talento humano especializado. <br />**Negocio electrónico** Se refiere a los procesos que se desarrollan valiéndose de aplicaciones informáticas, herramientas en línea o plataformas digitales.<br />**Comercio electrónico** Es el concepto más familiar, pues se trata de la compra y venta de productos y servicios a través de Internet.
+|||
+|-|-|
+La economía digital se refiere al uso de las tecnologías de la información en los procesos de producción de bienes y servicios, así como en su comercialización y consumo.<br /><br />Este término pone de manifiesto cómo la industria crea productos y servicios nuevos o transforma los existentes, aprovechando la tecnología.|Thomas Mesenbourg explicó en un trabajo publicado en 2001 que existen tres componentes que definen a la economía digital y la diferencian de la tradicional:<br /><br />**Infraestructura** Son los recursos tecnológicos con los que cuenta el negocio. Incluye tanto a los programas informáticos (software), los equipos (hardware) y el talento humano especializado. <br />**Negocio electrónico** Se refiere a los procesos que se desarrollan valiéndose de aplicaciones informáticas, herramientas en línea o plataformas digitales.<br />**Comercio electrónico** Es el concepto más familiar, pues se trata de la compra y venta de productos y servicios a través de Internet.
 
 ### Algunos ejemplos:
 
