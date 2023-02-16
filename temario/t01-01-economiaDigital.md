@@ -11,6 +11,8 @@
 
 [Gartner Symposium/ITxpo Analyst Opening Keynote](https://www.youtube.com/watch?v=J3JX84qEj-Q)
 
+A medida que las tecnologías digitales se volvieron más accesibles y ampliamente adoptadas, su impacto en los procesos de negocio y en la economía en general aumentó de un modo significativo.
+
 
 ## ¿Qué?
 
@@ -38,9 +40,22 @@ Mediados de la primera década del 2000|Aparición y crecimiento de la economía
 - Las plataformas colaborativas
 
 ## ¿Para qué?
+En el contexto de la dirección de sistemas de información, la economía digital se refiere específicamente al papel de las tecnologías de la información y la comunicación (TIC) en la creación de valor empresarial y en la mejora de los procesos de negocio.
 
+||Estrategia|Planificación
+|-|-|-
+**Empresa**|Diseña su estrategia identificando oportunidades para mejorar los procesos de negocio y en la búsqueda de ofrecer nuevos productos y servicios que aprovechen las tecnologías digitales. <br /><br />La estrategia empresarial debe ser flexible y adaptable para permitir cambios en respuesta a los cambios en el mercado y en la tecnología.|La planificación debe involucrar a todas las áreas de la empresa, incluyendo la dirección de sistemas de información, la dirección de operaciones y la dirección de marketing.<br /><br />Enfocada en cómo la tecnología puede: <br />- Mejorar los procesos de negocio<br />- Reducir costos<br />- Aumentar la eficiencia<br />- Mejorar la experiencia del cliente.
+
+### ¿Y la innovación?
+
+ La innovación debe estar integrada en la estrategia empresarial, la planificación y la gestión de la empresa, para permitir el desarrollo de nuevas tecnologías y soluciones que puedan mejorar los procesos de negocio, ofrecer nuevos productos y servicios y mejorar la experiencia del cliente.
 
 
 ## ¿Cómo?
 
+Inteligencia artificial|Análisis de datos|Internet de las cosas (IoT)|CLoud|Tecnologías móviles
+-|-|-|-|-|
 
+Es posiblle|Se pueden ofrecer nuevas formas de|Manteniendo la atención en conceptos como
+-|-|-
+Recopilación<br />Procesamiento<br />Análisis de datos|Gestionar los procesos de negocio <br />Abordar la interacción <br />  - Con los clientes<br />  - Con los proveedores|Ciberseguridad<br />Gestión de datos<br />Integración & detección de tecnologías emergentes
