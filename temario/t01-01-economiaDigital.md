@@ -25,10 +25,17 @@ Mediados de la primera década del 2000|Aparición y crecimiento de la economía
 2016, 2017...|Mejora de internet en paises en desarrollo, ampliación de empresas, productos y servicios digitales, 
 2019 *et al*|Foco en la *digitalización* (transición que llevan a cabo las empresas por medio del uso de las tecnologías)
 ---
-    La economía digital se refiere al uso de las tecnologías de la información en los procesos de producción de bienes y servicios, así como en su comercialización y consumo. Este término pone de manifiesto cómo la industria crea productos y servicios nuevos o transforma los existentes, aprovechando la tecnología. La banca digital, el comercio electrónico, la educación virtual, las aplicaciones móviles, las plataformas colaborativas, entre otras, son algunos ejemplos.
+||||
+|-|-|-|
+[https://www.santander.com/es/stories/economia-digital](https://www.santander.com/es/stories/economia-digital)|La economía digital se refiere al uso de las tecnologías de la información en los procesos de producción de bienes y servicios, así como en su comercialización y consumo.|Este término pone de manifiesto cómo la industria crea productos y servicios nuevos o transforma los existentes, aprovechando la tecnología. 
 
-[https://www.santander.com/es/stories/economia-digital](https://www.santander.com/es/stories/economia-digital)
+### Algunos ejemplos:
 
+- La banca digital
+- El comercio electrónico
+- La educación virtual
+- Las aplicaciones móviles
+- Las plataformas colaborativas
 
 ## ¿Para qué?
 
