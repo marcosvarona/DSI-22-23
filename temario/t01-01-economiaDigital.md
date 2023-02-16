@@ -50,6 +50,8 @@ A medida que las tecnologías digitales se volvieron más accesibles y ampliamen
 
 La propia naturaleza de evolutiva del ecosistema empresarial, la tecnología y su mutua influencia hacen que este **término** esté en constante cambio
 
+> #notaMental: Navegar por la [waybackMachine](https://archive.org/) y/o sacar ejemplos de como han evolucionado las webs de diversos sitios.
+
 |Fecha/Evento|Cómo se entendía el término, de qué se hablaba, qué se analizaba|
 -|-
 Mediados de los 90s|[Don Tapscott](https://dontapscott.com/) acuña el término en su libro "La economía digital"
