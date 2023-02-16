@@ -2,6 +2,13 @@
 
 ## ¿Por qué?
 
+<div align="center">
+
+Inteligencia artificial|Análisis de datos|Internet de las cosas (IoT)|CLoud|Tecnologías móviles
+-|-|-|-|-|
+
+</div>
+
     El mundo digital está sobre nosotros:
 
     - Cada presupuesto, es un presupuesto de tecnologías
@@ -50,12 +57,10 @@ En el contexto de la dirección de sistemas de información, la economía digita
 
  La innovación debe estar integrada en la estrategia empresarial, la planificación y la gestión de la empresa, para permitir el desarrollo de nuevas tecnologías y soluciones que puedan mejorar los procesos de negocio, ofrecer nuevos productos y servicios y mejorar la experiencia del cliente.
 
+Es posible|Se pueden ofrecer nuevas formas de|Manteniendo la atención en conceptos como
+-|-|-
+Recopilación<br />Procesamiento<br />Análisis de datos|Gestionar los procesos de negocio <br />Abordar la interacción <br />  - Con los clientes<br />  - Con los proveedores|Ciberseguridad<br />Gestión de datos<br />Integración & detección de tecnologías emergentes
 
 ## ¿Cómo?
 
-Inteligencia artificial|Análisis de datos|Internet de las cosas (IoT)|CLoud|Tecnologías móviles
--|-|-|-|-|
-
-Es posiblle|Se pueden ofrecer nuevas formas de|Manteniendo la atención en conceptos como
--|-|-
-Recopilación<br />Procesamiento<br />Análisis de datos|Gestionar los procesos de negocio <br />Abordar la interacción <br />  - Con los clientes<br />  - Con los proveedores|Ciberseguridad<br />Gestión de datos<br />Integración & detección de tecnologías emergentes
+Para ver que cómo podemos transformar los negocios tenemos que **poder entender como funciona cada uno** y cuales pueden ser las palancas digitales con las que podemos transformar el negocio o darle una importante ventaja competitiva.
