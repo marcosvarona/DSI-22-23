@@ -2,6 +2,11 @@
 
 ## ¿Por qué?
 
+### Evitar ambigüedades en la comunicación
+
+|![](/images/manualMal.jpg)|![](/images/pptMal.png)|
+|-|-|
+|La misma persona interpreta lo mismo del mismo diagrama pasado el tiempo, una servilleta con un garabato sin estandarizar, …​|distintas personas interpretan lo mismo del mismo diagrama, transparencias / diapositivas / …​ muy bonitas sin estandarizar, …​|
 
 ## ¿Qué?
 

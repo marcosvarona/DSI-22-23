@@ -44,8 +44,6 @@ A medida que las tecnologías digitales se volvieron más accesibles y ampliamen
 - Airbnb ofrece a los huéspedes una experiencia de alojamiento más personalizada y auténtica al alojarse en viviendas privadas y tener contacto directo con los anfitriones.
 - Airbnb utiliza tecnologías digitales como el análisis de datos para comprender mejor las preferencias de los huéspedes y mejorar la experiencia de usuario.
 
-
-
 ## ¿Qué?
 
 La propia naturaleza de evolutiva del ecosistema empresarial, la tecnología y su mutua influencia hacen que este **término** esté en constante cambio
@@ -87,9 +85,13 @@ En el contexto de la dirección de sistemas de información, la economía digita
 
  La innovación debe estar integrada en la estrategia empresarial, la planificación y la gestión de la empresa, para permitir el desarrollo de nuevas tecnologías y soluciones que puedan mejorar los procesos de negocio, ofrecer nuevos productos y servicios y mejorar la experiencia del cliente.
 
+<div align="center">
+
 Es posible|Se pueden ofrecer nuevas formas de|Manteniendo la atención en conceptos como
 -|-|-
 Recopilación<br />Procesamiento<br />Análisis de datos|Gestionar los procesos de negocio <br />Abordar la interacción <br />  - Con los clientes<br />  - Con los proveedores|Ciberseguridad<br />Gestión de datos<br />Integración & detección de tecnologías emergentes
+
+</div>
 
 ## ¿Cómo?
 
