@@ -16,4 +16,3 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 * [Repo@github](https://github.com/mmasias)
 * [Notion](https://www.notion.so)
 * Ofimática@Cloud: [Google](https://drive.google.com/) / [Microsoft](https://www.office.com/?auth=1) / [Zoho Docs](https://workdrive.zoho.eu/home)
-
