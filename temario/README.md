@@ -3,7 +3,7 @@
 Tema|Algunos puntos que veremos aquí
 -|-
 [Introducción](t00-introduccion.md)|
-[Modelos de negocio e innovación](./t01-modelosDeNegocioInnovacion.md)|- [Economía Digital](t01-01-economiaDigital.md).<br />- Los modelos de Negocio CANVAS.<br />- Análisis DAFO.<br />- Innovación.<br />- Tipos de Innovación.<br />- El Modelo de Innovación como proceso.<br />- Estrategia de Océano Azul.
+[Modelos de negocio e innovación](./t01-modelosDeNegocioInnovacion.md)|- [Economía Digital](t01-01-economiaDigital.md).<br />- [Los modelos de Negocio CANVAS](t01-02-modeloNegocioCANVAS.md).<br />- Análisis DAFO.<br />- Innovación.<br />- Tipos de Innovación.<br />- El Modelo de Innovación como proceso.<br />- Estrategia de Océano Azul.
 Funciones de la dirección de sistemas de información|- Definición de Sistemas de la información en las organizaciones.<br />- Evolución histórica.<br />- Recursos Materiales y datos: Elementos básicos (Hardware y Software).<br />- Personas: Como nos organizamos.<br />- Actividades de la DSI.
 Estrategia y planificación de los sistemas de información|- Transformación digital.<br />- La organización: usuarios - clientes.<br />- Evolución histórica.<br />- Planificación de las TI.<br />- Selección de la arquitectura empresarial. Caso: Mercado Libre.<br />- Evaluación, gestión y control de proyectos.<br />- El capital humano de TI.<br />- El rol del CIO.
 Gestión de proyectos de integración de sistemas|- Objetivos, Introducción e Historia.<br />- Lenguajes de Programación.<br />- Metodología de Desarrollo, Ágil, CMMi.<br />- Tipología de Aplicaciones. ERP<br />- Caso Práctico: Implantación del ERP en CISCO
