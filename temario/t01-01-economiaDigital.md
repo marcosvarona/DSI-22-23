@@ -96,3 +96,5 @@ Recopilación<br />Procesamiento<br />Análisis de datos|Gestionar los procesos 
 ## ¿Cómo?
 
 Para ver cómo podemos transformar los negocios tenemos que **poder entender como funciona cada uno** y cuales pueden ser las palancas digitales con las que podemos transformar el negocio o darle una importante ventaja competitiva.
+
+Para poder entender, tenemos que realizar una **abstracción** del mismo. 
