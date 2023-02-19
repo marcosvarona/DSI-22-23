@@ -2,6 +2,10 @@
 
 ## ¿Por qué?
 
+Modelo 1|Modelo 2|Modelo 3|Modelo 4|
+-|-|-|-
+![](../images/MdN_ABnB_001.png)|![](../images/MdN_HealthyBites_001.png)|![](../images/MdN_ORAN_001.png)|![](../images/modeloNegocioMMV-2009.png)
+
 ### Evitar ambigüedades en la comunicación
 
 |![](/images/manualMal.jpg)|![](/images/pptMal.png)|

@@ -88,7 +88,7 @@ Quinario|Relativo a los servicios sin ánimo de lucro|Cultura, educación, arte 
 
 ## ¿Cómo?
 
-1. [Economía Digital](t01-01-economiaDigital.md)
+1. **[Economía Digital](t01-01-economiaDigital.md)**
 1. **[Los modelos de Negocio CANVAS](t01-02-modeloNegocioCANVAS.md)**
 1. [Análisis DAFO](t01-03-analisisDAFO.md)
 1. [Innovación](t01-04-innovacion.md)
