@@ -22,6 +22,13 @@ Modelo 1|Modelo 2|Modelo 3|Modelo 4|
 
 ## ¿Para qué?
 
+Qué|Para qué
+-|-
+Información / Ideas|Estructurar
+Eficiencia|Aumentar
+Trabajo colaborativo|Dinamizar
+Decisiones|Ayudar
+
 - Para desarrollar y visualizar su modelo de negocio. 
 - Ayuda a entender las partes clave de un modelo de negocio y cómo se relacionan entre sí.
 
