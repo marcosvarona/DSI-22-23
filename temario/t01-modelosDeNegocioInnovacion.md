@@ -88,10 +88,6 @@ Quinario|Relativo a los servicios sin ánimo de lucro|Cultura, educación, arte 
 
 ## ¿Cómo?
 
-1. **[Economía Digital](t01-01-economiaDigital.md)**
-1. **[Los modelos de Negocio CANVAS](t01-02-modeloNegocioCANVAS.md)**
-1. [Análisis DAFO](t01-03-analisisDAFO.md)
-1. [Innovación](t01-04-innovacion.md)
-1. [Tipos de Innovación](t01-05-tipoInnovacion.md)
-1. [El Modelo de Innovación como proceso](t01-06-modeloInnovacionProceso.md)
-1. [Estrategia de Océano Azul](t01-07-oceanoAzul.md)
+1. Interiorizando el concepto de [Economía Digital](t01-01-economiaDigital.md).
+1. [Modelando la empresa](./t01-02-herramientasMarcos.md) de manera formal mediante herramientas y marcos de análisis.
+1. Entendiendo y aplicando la innovación como proceso sistémico.
