@@ -5,8 +5,9 @@
 ## [Modelos de negocio e innovación](./t01-modelosDeNegocioInnovacion.md)
 
 - [Economía Digital](t01-01-economiaDigital.md).
-- [Los modelos de Negocio CANVAS](t01-02-modeloNegocioCANVAS.md).
-- Análisis DAFO.
+- [Herramientas y marcos de trabajo](t01-02-herramientasMarcos.md)
+    - [Los modelos de Negocio CANVAS](t01-03-lienzoCANVAS.md).
+    - Análisis DAFO.
 - Innovación.
 - Tipos de Innovación.
 - El Modelo de Innovación como proceso.

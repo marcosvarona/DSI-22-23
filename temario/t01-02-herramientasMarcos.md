@@ -1,4 +1,4 @@
-# El lienzo del modelo de negocio
+# Herramientas y Marcos de trabajo
 
 ## ¿Por qué?
 
@@ -21,4 +21,3 @@ Modelo 1|Modelo 2|Modelo 3|Modelo 4|
 - Ayuda a entender las partes clave de un modelo de negocio y cómo se relacionan entre sí.
 
 ## ¿Cómo?
-
