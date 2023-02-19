@@ -9,9 +9,9 @@
     - [Los modelos de Negocio CANVAS](t01-03-lienzoCANVAS.md).
     - Análisis DAFO.
 - Innovación.
-- Tipos de Innovación.
-- El Modelo de Innovación como proceso.
-- Estrategia de Océano Azul.
+    - Tipos de Innovación.
+    - El Modelo de Innovación como proceso.
+    - Estrategia de Océano Azul.
 
 ## Funciones de la dirección de sistemas de información
 
