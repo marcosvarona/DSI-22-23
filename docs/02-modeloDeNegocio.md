@@ -13,3 +13,7 @@ Las reglas del presente reto son:
 Dejaré indicada en la ficha de grupos qué integrante del grupo deberá cargar la entrega antes del día viernes a las 12:15 (o sea, antes de la clase). Pueden cargar archivos o indicar un enlace a un documento/carpetaCompartida/repo.
 
 El viernes lo revisamos. Si hay dudas, por acá estamos.
+
+## Actualización
+
+Luego de la revisión y reflexión del viernes, continuamos en [herramientas y marcos de trabajo](/temario/t01-02-herramientasMarcos.md)
