@@ -143,4 +143,4 @@ Los Sistemas de Información son un mundo apasionante, cambiante, que ofrece cad
 |Dimensión|Detalle
 |-|-
 |Estratégica|Plan de Estudios & Guía docente / [Competencias](./competencias.md) / [Resultados de Aprendizaje](./resultadosDeAprendizaje.md)
-|Ejecutiva|[Temario](./temario.md) / [Sesiones](https://docs.google.com/spreadsheets/d/106_hqbH8_U0hYLfYHcha7SrZP-wTm2scg5PHYZabSB4/edit#gid=1238964059) /  [Evaluación](./evaluacion.md)
+|Ejecutiva|[Temario](./README.md) / [Sesiones](https://docs.google.com/spreadsheets/d/106_hqbH8_U0hYLfYHcha7SrZP-wTm2scg5PHYZabSB4/edit#gid=1238964059) /  [Evaluación](./evaluacion.md)
