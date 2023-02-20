@@ -1,7 +1,10 @@
 # El lienzo del modelo de negocio
 
+![](/images/canvasGMN.png)
+
 ## ¿Por qué?
 
+- Modo abstracción: 9 elementos clave
 
 ## ¿Qué?
 
