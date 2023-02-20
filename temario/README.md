@@ -6,11 +6,12 @@
 
 - [Economía Digital](t01-01-economiaDigital.md).
 - [Herramientas y marcos de trabajo](t01-02-herramientasMarcos.md)
-    - [Los modelos de Negocio CANVAS](t01-03-lienzoCANVAS.md).
+    - [Algunos marcos de trabajo](t01-03-algunosMarcos.md)
+    - [Los modelos de Negocio CANVAS](t01-04-lienzoCANVAS.md).
     - Análisis DAFO.
 - Innovación.
     - Tipos de Innovación.
-    - El Modelo de Innovación como proceso.
+    - Herramientas y marcos de trabajo: el Modelo de Innovación como proceso.
     - Estrategia de Océano Azul.
 
 ## Funciones de la dirección de sistemas de información
