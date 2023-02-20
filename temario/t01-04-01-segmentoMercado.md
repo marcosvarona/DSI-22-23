@@ -20,7 +20,14 @@ Grupos de personas o entidades a los que se dirige una empresa|Los clientes son 
 
 ## ¿Para qué?
 
-> *#2Think...*
+- Para identificar y atender las necesidades y deseos específicos de diferentes grupos de clientes. 
+- Para enfocarse en aquellos grupos rentables, accesibles y fáciles de servir
+- Para crear una propuesta de valor única para cada uno.
+- Para evitar una estrategia "de talla única"
+- Para adaptar sus productos y servicios, estrategias de marketing, precios y canales de distribución para satisfacer las necesidades específicas de cada segmento.
+- Para identificar nuevas oportunidades de mercado y diferenciarse de la competencia. 
+- Para detectar nichos de mercado no satisfechos, desarrollar productos y servicios innovadores y 
+- Para crear mensajes de marketing más efectivos.
 
 ## ¿Cómo?
 
@@ -34,4 +41,3 @@ Conductual|Comportamientos de compra, como la frecuencia de compra, el momento d
 Geográfica|Ubicación geográfica, como el país, la región, la ciudad, el clima, etc.
 Por necesidades|Necesidades que satisfacen los productos o servicios, como por ejemplo, soluciones para el cuidado de la piel, productos de belleza para hombres, etc.
 Por ocasión de compra|Cuándo compran un producto o servicio, como regalos de cumpleaños, regalos de Navidad, regalos del Día de San Valentín, etc.
-
