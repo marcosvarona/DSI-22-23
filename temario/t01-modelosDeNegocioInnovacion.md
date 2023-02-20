@@ -89,5 +89,10 @@ Quinario|Relativo a los servicios sin ánimo de lucro|Cultura, educación, arte 
 ## ¿Cómo?
 
 1. Interiorizando el concepto de [Economía Digital](t01-01-economiaDigital.md).
-1. [Modelando la empresa](./t01-02-herramientasMarcos.md) de manera formal mediante herramientas y marcos de análisis.
+1. [Modelando la empresa](./t01-02-herramientasMarcos.md) de manera formal mediante herramientas y marcos de análisis, usando:
+    - **Presentación visual** de la lógica y los fundamentos del negocio.
+    - **Tablas y gráficos** para representar y comparar diferentes elementos clave de un modelo de negocio, como los flujos de ingresos y gastos.
+    - **Descripciones** escritas.
+    - **Prototipos**, para experimentar y probar un modelo de negocio antes de produccirlo a gran escala.
+    - **Modelos matemáticos** que representen de manera precisa y cuantitativa un modelo de negocio y sus interacciones con factores externos.
 1. Entendiendo y aplicando la innovación como proceso sistémico.
