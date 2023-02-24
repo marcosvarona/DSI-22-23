@@ -20,6 +20,8 @@ En el lienzo de negocio canvas, el elemento "relaciones con los clientes" se enf
 
 ## ¿Para qué?
 
+<div align="center">
+
 |||
 -|-
 *“Si pudiéramos saber primero*|
@@ -27,9 +29,48 @@ En el lienzo de negocio canvas, el elemento "relaciones con los clientes" se enf
 *y hacia dónde vamos*|VISIÓN<br />DIRECCIÓN DE DESARROLLO
 *podríamos juzgar mejor*|
 *qué hacer y cómo hacerlo"*|PLAN OPERATIVO
-Abraham Lincoln
+*Abraham Lincoln*|
 
-
+</div>
 
 ## ¿Cómo?
 
+### Debilidades
+- Puntos débiles
+- ¿En qué flaqueo?
+- ¿En qué flaqueamos?
+- ¿Qué me impide funcionar de manera óptima?
+- ¿Qué deberíamos mejorar?
+
+### Amenazas
+- ¿Qué nubarrones ves venir?
+- ¿Qué cambios ves venir?
+- ¿Qué hacen las empresas de la competencia?
+- ¿Necesitamos mejoras tecnológicas?
+
+### Fortalezas
+- ¿En qué eres el mejor?
+- ¿Qué funcionamos bien?
+- ¿Qué marca la diferencia con la competencia?
+- ¿Qué nos hace menos vulnerables?
+
+### Oportunidades
+- ¿Qué oportunidades ves venir?
+- ¿Qué ocasiones hay que aprovechar?
+- ¿Hacia donde podemos crecer?
+
+## A tener en cuenta
+
+### Limitaciones
+
+Qué|Por qué?
+-|-
+Recopilación de datos|La precisión depende en gran medida de la calidad de los datos recopilados. 
+Enfoque en el corto plazo|Tiende a enfocarse en el corto plazo, lo que significa que puede no ser útil para identificar problemas o oportunidades a largo plazo.
+Sesgos|Podría estar sesgado por las percepciones personales y las opiniones de los individuos involucrados en el análisis, lo que influiría en la interpretación de los datos.
+Dificultad de priorización|Dado que se puede tener una lista larga de factores a considerar.
+No considera la interacción entre los factores|Al ser una abstracción, se analizan los factores de manera aislada sin tener en cuenta las interacciones entre ellos.
+
+### Qué hacer para mitigar estas limitaciones
+
+2Do...
