@@ -41,3 +41,15 @@ Conductual|Comportamientos de compra, como la frecuencia de compra, el momento d
 Geográfica|Ubicación geográfica, como el país, la región, la ciudad, el clima, etc.
 Por necesidades|Necesidades que satisfacen los productos o servicios, como por ejemplo, soluciones para el cuidado de la piel, productos de belleza para hombres, etc.
 Por ocasión de compra|Cuándo compran un producto o servicio, como regalos de cumpleaños, regalos de Navidad, regalos del Día de San Valentín, etc.
+
+### Ejemplos de segmentos de clientes
+
+- Mercado de masas (Ordenadores)
+- Nicho de mercado. (Drones)
+- Mercado segmentado: Varios segmentos con necesidades diferenciadas. (Bancos, Sw)
+- Mercado diversificado: segmentos de mercados no relacionados entre si. (Amazon con AWS Cloud, y el B2C))
+- Plataformas o mercados multilaterales. (Uber, Blablacar) 
+
+### Lecturas recomendadas
+
+- [Segmentación y estrategias](http://aprendiendomarketingconinditex.blogspot.com/2010/10/segmentacion-y-estrategias-en-inditex.html)
