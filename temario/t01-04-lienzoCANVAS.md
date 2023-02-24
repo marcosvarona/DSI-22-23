@@ -31,13 +31,22 @@ EC|Estructura de costes|Los diferentes elementos del modelo de negocio conforman
 
 ## A tener en cuenta
 
+### Limitaciones?
+
 Qué|Por qué
 -|-
-Simplificación|El lienzo de negocio canvas puede simplificar demasiado el proceso de planificación y análisis. Puede faltar algunos detalles importantes en la descripción de los elementos del negocio.
-Enfoque en el modelo de negocio|El lienzo de negocio canvas se enfoca principalmente en el modelo de negocio de la empresa y no en otros aspectos importantes como la cultura organizacional o la estrategia de marketing.
-Sin contexto|El lienzo de negocio canvas se utiliza a menudo como una herramienta aislada y puede faltar el contexto más amplio del entorno competitivo, las tendencias del mercado, la economía, etc.
-Foco en el corto plazo|El lienzo de negocio canvas se enfoca en los aspectos operativos del negocio y puede no proporcionar una perspectiva a largo plazo que permita anticipar cambios en el entorno del negocio.
-No garantiza el éxito|El uso del lienzo de negocio canvas no garantiza el éxito del negocio. La herramienta es simplemente una guía para ayudar a las empresas a planificar y visualizar su modelo de negocio, pero no puede garantizar su éxito.
+Simplificación|Pueden faltar algunos detalles importantes en la descripción de los elementos del negocio.
+Enfoque en el modelo de negocio|Existen otros aspectos importantes como la cultura organizacional o la estrategia de marketing.
+Sin contexto|Si se utiliza como herramienta aislada faltarán elementos: el contexto más amplio, el entorno competitivo, las tendencias del mercado, la economía, etc.
+Foco en el corto plazo|Se enfoca en los aspectos operativos del negocio y puede no proporcionar una perspectiva a largo plazo que permita anticipar cambios en el entorno del negocio.
+No garantiza el éxito|Es una guía para ayudar a las empresas a planificar y visualizar su modelo de negocio, pero no puede garantizar su éxito.
+
+### Qué hacer para mitigar estas limitaciones
+
++Análisis, + Enfoque|Contexto|+Plazo|Revisión
+-|-|-|-
+Análisis más detallado de cada elemento|Observar el entorno|Mediano plazo|Evaluar y ajustar con periodicidad
+DAFO, Cadena de valor, Mapa de empatía|Tendencias de mercado, economía, tecnología|Largo plazo|
 
 ### Enlace a plantillas
 
