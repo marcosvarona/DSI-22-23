@@ -20,6 +20,16 @@ En el lienzo de negocio canvas, el elemento "relaciones con los clientes" se enf
 
 ## ¿Para qué?
 
+|||
+-|-
+*“Si pudiéramos saber primero*|
+*dónde estamos*|DIAGNÓSTICO
+*y hacia dónde vamos*|VISIÓN<br />DIRECCIÓN DE DESARROLLO
+*podríamos juzgar mejor*|
+*qué hacer y cómo hacerlo"*|PLAN OPERATIVO
+Abraham Lincoln
+
+
 
 ## ¿Cómo?
 
