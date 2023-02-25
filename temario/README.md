@@ -1,26 +1,27 @@
 # Temario
 
-## [Introducción](t00-introduccion.md)
+## Introducción
+- [x] [Introducción a la asignatura](t00-introduccion.md)
 
 ## [Modelos de negocio e innovación](./t01-modelosDeNegocioInnovacion.md)
 
-- [Economía Digital](t01-01-economiaDigital.md).
-- [Herramientas y marcos de trabajo](t01-02-herramientasMarcos.md).
-    - [Algunos marcos de trabajo](t01-03-algunosMarcos.md).
-    - [Los modelos de Negocio CANVAS](t01-04-lienzoCANVAS.md).
-    - [Análisis DAFO](t01-05-analisisDAFO.md).
-- Innovación.
-    - Tipos de Innovación.
-    - Herramientas y marcos de trabajo: el Modelo de Innovación como proceso.
-    - Estrategia de Océano Azul.
+- [x] [Economía Digital](t01-01-economiaDigital.md).
+- [x] [Herramientas y marcos de trabajo](t01-02-herramientasMarcos.md).
+    - [x] [Algunos marcos de trabajo](t01-03-algunosMarcos.md).
+    - [x] [Los modelos de Negocio CANVAS](t01-04-lienzoCANVAS.md).
+    - [x] [Análisis DAFO](t01-05-analisisDAFO.md).
+- [ ] Innovación.
+    - [ ] Tipos de Innovación.
+    - [ ] Herramientas y marcos de trabajo: el Modelo de Innovación como proceso.
+    - [ ] Estrategia de Océano Azul.
 
 ## Funciones de la dirección de sistemas de información
 
-- Definición de Sistemas de la información en las organizaciones.
-- Evolución histórica.
-- Recursos Materiales y datos: Elementos básicos (Hardware y Software).
-- Personas: Como nos organizamos.
-- Actividades de la DSI.
+- [ ] Definición de Sistemas de la información en las organizaciones.
+- [ ] Evolución histórica.
+- [ ] Recursos Materiales y datos: Elementos básicos (Hardware y Software).
+- [ ] Personas: Como nos organizamos.
+- [ ] Actividades de la DSI.
 
 ## Estrategia y planificación de los sistemas de información
 
