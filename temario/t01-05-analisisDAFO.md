@@ -29,13 +29,14 @@ En el lienzo de negocio canvas, el elemento "relaciones con los clientes" se enf
 *y hacia dónde vamos*|VISIÓN<br />DIRECCIÓN DE DESARROLLO
 *podríamos juzgar mejor*|
 *qué hacer y cómo hacerlo"*|PLAN OPERATIVO
-*Abraham Lincoln*|
+***Abraham Lincoln***|
 
 </div>
 
 ## ¿Cómo?
 
 ### Debilidades
+
 - Puntos débiles
 - ¿En qué flaqueo?
 - ¿En qué flaqueamos?
@@ -43,18 +44,21 @@ En el lienzo de negocio canvas, el elemento "relaciones con los clientes" se enf
 - ¿Qué deberíamos mejorar?
 
 ### Amenazas
+
 - ¿Qué nubarrones ves venir?
 - ¿Qué cambios ves venir?
 - ¿Qué hacen las empresas de la competencia?
 - ¿Necesitamos mejoras tecnológicas?
 
 ### Fortalezas
+
 - ¿En qué eres el mejor?
 - ¿Qué funcionamos bien?
 - ¿Qué marca la diferencia con la competencia?
 - ¿Qué nos hace menos vulnerables?
 
 ### Oportunidades
+
 - ¿Qué oportunidades ves venir?
 - ¿Qué ocasiones hay que aprovechar?
 - ¿Hacia donde podemos crecer?
@@ -73,4 +77,5 @@ No considera la interacción entre los factores|Al ser una abstracción, se anal
 
 ### Qué hacer para mitigar estas limitaciones
 
-2Do...
+Primero, [analizarlo](t01-05-01-metaDAFO.md).
+
