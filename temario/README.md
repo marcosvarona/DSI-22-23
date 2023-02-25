@@ -16,16 +16,21 @@
     - [ ] Estrategia de Océano Azul.
 
 ## Funciones de la dirección de sistemas de información
-<details>
+
+<details><summary>Pulse para ver el contenido planteado</summary>
+
 - [ ] Definición de Sistemas de la información en las organizaciones.
 - [ ] Evolución histórica.
 - [ ] Recursos Materiales y datos: Elementos básicos (Hardware y Software).
 - [ ] Personas: Como nos organizamos.
 - [ ] Actividades de la DSI.
+
 </details>
 
 ## Estrategia y planificación de los sistemas de información
-<details>
+
+<details><summary>Pulse para ver el contenido planteado</summary>
+
 - [ ] Transformación digital.
 - [ ] La organización: usuarios - clientes.
 - [ ] Evolución histórica.
@@ -34,28 +39,37 @@
 - [ ] Evaluación, gestión y control de proyectos.
 - [ ] El capital humano de TI.
 - [ ] El rol del CIO.
+
 </details>
 
 ## Gestión de proyectos de integración de sistemas
-<details>
+
+<details><summary>Pulse para ver el contenido planteado</summary>
+
 - [ ] Objetivos, Introducción e Historia.
 - [ ] Lenguajes de Programación.
 - [ ] Metodología de Desarrollo, Ágil, CMMi.
 - [ ] Tipología de Aplicaciones. ERP
 - [ ] Caso Práctico: Implantación del ERP en CISCO
+
 </details>
 
 ## Gestión de operaciones
-<details>
+
+<details><summary>Pulse para ver el contenido planteado</summary>
+
 - [ ] Objetivos.
 - [ ] Infraestructura Tecnológica.
 - [ ] Cloud Computing.
 - [ ] Green IT.- Virtualización: Virtualización de Servidores.
 - [ ] Arquitectura Empresarial. 
+
 </details>
 
 ## Gestión de proveedores y seguridad
-<details>
+
+<details><summary>Pulse para ver el contenido planteado</summary>
+
 - [ ] Objetivos e introducción a la gestión de servicios.
 - [ ] Rightsourcing, outsourcing, insourcing, multisourcing.
 - [ ] Offshoring. Cómo se implanta y dónde es mejor implantarlo.
@@ -63,12 +77,12 @@
 - [ ] Caso práctico de contrato SLA.
 - [ ] Seguridad de Información en los negocios.
 - [ ] Seguridad y privacidad.
+
 </details>
 
 ## Comercio electrónico
 
-<details>
-<sumary>*Pulse para ver el contenido planteado*</sumary>
+<details><summary>Pulse para ver el contenido planteado</summary>
 
 - [ ] Definición Comercio electrónico.
 - [ ] Características Comercio electrónico.
