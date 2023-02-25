@@ -66,10 +66,14 @@
 </details>
 
 ## Comercio electrónico
+
 <details>
+<sumary>*Pulse para ver el contenido planteado*</sumary>
+
 - [ ] Definición Comercio electrónico.
 - [ ] Características Comercio electrónico.
 - [ ] Evolución y situación actual. Éxitos y fracasos.
 - [ ] Componentes de Negocio electrónico.
 - [ ] Claves del Comercio electrónico.
-<details>
+
+</details>
