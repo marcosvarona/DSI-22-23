@@ -13,6 +13,7 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 
 ## Herramientas
 
-* [Repo@github](https://github.com/mmasias)
+* Este [repo@github](https://github.com/mmasias)
 * [Notion](https://www.notion.so)
 * Ofimática@Cloud: [Google](https://drive.google.com/) / [Microsoft](https://www.office.com/?auth=1) / [Zoho Docs](https://workdrive.zoho.eu/home)
+* [PlantUML](https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000), herramienta de modelado empleada en varios de los esquemas de este repo. *[Brevísima explicación de su uso en este escenario](/docs/plantUMLHowTo.md)*

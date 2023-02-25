@@ -1,10 +1,8 @@
-class Empresa
+Estrategia -u- Empresa:> clara
+Planificación -u- Empresa:> adecuada
 
-Estrategia -u-> Empresa:clara
-Planificación -u-> Empresa:adecuada
-
-Estrategia .r.> Planificación: \n\nGuía a
-Planificación ..> Estrategia: \n\nAyuda a que se cumpla
+Estrategia .r.> Planificación: Guía a
+Planificación ...> Estrategia: Ayuda a que se cumpla
 
 hide class circle
 hide empty members
