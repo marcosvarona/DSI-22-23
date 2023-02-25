@@ -16,54 +16,60 @@
     - [ ] Estrategia de Océano Azul.
 
 ## Funciones de la dirección de sistemas de información
-
+<details>
 - [ ] Definición de Sistemas de la información en las organizaciones.
 - [ ] Evolución histórica.
 - [ ] Recursos Materiales y datos: Elementos básicos (Hardware y Software).
 - [ ] Personas: Como nos organizamos.
 - [ ] Actividades de la DSI.
+</details>
 
 ## Estrategia y planificación de los sistemas de información
-
-- Transformación digital.
-- La organización: usuarios - clientes.
-- Evolución histórica.
-- Planificación de las TI.
-- Selección de la arquitectura empresarial. Caso: Mercado Libre.
-- Evaluación, gestión y control de proyectos.
-- El capital humano de TI.
-- El rol del CIO.
+<details>
+- [ ] Transformación digital.
+- [ ] La organización: usuarios - clientes.
+- [ ] Evolución histórica.
+- [ ] Planificación de las TI.
+- [ ] Selección de la arquitectura empresarial. Caso: Mercado Libre.
+- [ ] Evaluación, gestión y control de proyectos.
+- [ ] El capital humano de TI.
+- [ ] El rol del CIO.
+</details>
 
 ## Gestión de proyectos de integración de sistemas
-
-- Objetivos, Introducción e Historia.
-- Lenguajes de Programación.
-- Metodología de Desarrollo, Ágil, CMMi.
-- Tipología de Aplicaciones. ERP
-- Caso Práctico: Implantación del ERP en CISCO
+<details>
+- [ ] Objetivos, Introducción e Historia.
+- [ ] Lenguajes de Programación.
+- [ ] Metodología de Desarrollo, Ágil, CMMi.
+- [ ] Tipología de Aplicaciones. ERP
+- [ ] Caso Práctico: Implantación del ERP en CISCO
+</details>
 
 ## Gestión de operaciones
-
-- Objetivos.
-- Infraestructura Tecnológica.
-- Cloud Computing.
-- Green IT.- Virtualización: Virtualización de Servidores.
-- Arquitectura Empresarial. 
+<details>
+- [ ] Objetivos.
+- [ ] Infraestructura Tecnológica.
+- [ ] Cloud Computing.
+- [ ] Green IT.- Virtualización: Virtualización de Servidores.
+- [ ] Arquitectura Empresarial. 
+</details>
 
 ## Gestión de proveedores y seguridad
-
-- Objetivos e introducción a la gestión de servicios.
-- Rightsourcing, outsourcing, insourcing, multisourcing.
-- Offshoring. Cómo se implanta y dónde es mejor implantarlo.
-- Definición de SLA en procesos de externalización.
-- Caso práctico de contrato SLA.
-- Seguridad de Información en los negocios.
-- Seguridad y privacidad.
+<details>
+- [ ] Objetivos e introducción a la gestión de servicios.
+- [ ] Rightsourcing, outsourcing, insourcing, multisourcing.
+- [ ] Offshoring. Cómo se implanta y dónde es mejor implantarlo.
+- [ ] Definición de SLA en procesos de externalización.
+- [ ] Caso práctico de contrato SLA.
+- [ ] Seguridad de Información en los negocios.
+- [ ] Seguridad y privacidad.
+</details>
 
 ## Comercio electrónico
-
-- Definición Comercio electrónico.
-- Características Comercio electrónico.
-- Evolución y situación actual. Éxitos y fracasos.
-- Componentes de Negocio electrónico.
-- Claves del Comercio electrónico.
+<details>
+- [ ] Definición Comercio electrónico.
+- [ ] Características Comercio electrónico.
+- [ ] Evolución y situación actual. Éxitos y fracasos.
+- [ ] Componentes de Negocio electrónico.
+- [ ] Claves del Comercio electrónico.
+<details>
