@@ -7,9 +7,9 @@
 
 - [x] [Economía Digital](t01-01-economiaDigital.md).
 - [x] [Herramientas y marcos de trabajo](t01-02-herramientasMarcos.md).
-    - [x] [Algunos marcos de trabajo](t01-03-algunosMarcos.md).
     - [x] [Los modelos de Negocio CANVAS](t01-04-lienzoCANVAS.md).
     - [x] [Análisis DAFO](t01-05-analisisDAFO.md).
+    - [x] [Otros marcos de trabajo](t01-03-algunosMarcos.md).
 - [ ] Innovación.
     - [ ] Tipos de Innovación.
     - [ ] Herramientas y marcos de trabajo: el Modelo de Innovación como proceso.
