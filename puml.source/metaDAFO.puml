@@ -19,13 +19,16 @@ class Debilidades {
     Requiere una cantidad significativa de tiempo, recursos y conocimiento del dominio para su correcta elaboración.
     La calidad del análisis depende de la calidad de los datos.
     Y del analista!!!
+    ¡Y de apoyarse en datos! ¡Objetivos!
     Puede resultar en una cantidad abrumadora de información y datos que pueden ser difíciles de sintetizar y utilizar de manera efectiva.
 }
 
 class Amenazas {
     Dada su sencillez es relativamente fácil pasar por alto factores importantes
     Podría no contemplar la complejidad de ciertas situaciones.
-    Puede ser utilizado de manera incorrecta por aquellos que no estén familiarizados con su dinámica.
+    Puede ser utilizado de manera incorrecta por aquellos que no estén familiarizados con su dinámica:
+    > Simplificar en exceso
+    > Tender a la subjetivación
 }
 
 DAFO *-u- Fortalezas

@@ -55,17 +55,16 @@ Si la abstracción de empresa ya parte de ser concepto dinámico, entonces el ca
 El cambio es algo inevitable. ¡Hemos de asumirlo!|![](/out/puml.source/innovacion/innovacion.svg)
 **Innovación:** las nuevas ideas, soluciones, productos o procesos que se introducen en el mercado o en una organización.|**Modelo de innovación**: es un enfoque disciplinado y organizado que permite identificar (*requisitos*), crear (*diseño*) e implementar (*desarrollo*) nuevas ideas, productos o procesos. 
 
-
 ## ¿Para qué?
 
 Para obtener visión completa y estructurada sobre cómo desarrollar y mantener un modelo de negocio sólido y competitivo en un entorno digital.
 
 - Identificar
-    - Su propuesta de valor
-    - Su segmento de mercado objetivo 
-    - Sus fuentes de ingresos. 
+  - Su propuesta de valor
+  - Su segmento de mercado objetivo
+  - Sus fuentes de ingresos.
 - Entender y controlar sus costos y gastos
-- Hacer proyecciones financieras realistas. 
+- Hacer proyecciones financieras realistas.
 - Tomar decisiones informadas sobre cómo operar y crecer su negocio.
 
 |||
@@ -83,8 +82,6 @@ Quinario|Relativo a los servicios sin ánimo de lucro|Cultura, educación, arte 
 |||
 -|-
 <big>…​ y para explotar el Universo, Galaxias, …​ Planeta, Hidrosfera, …​, Persona, Pie, …​, Bacterias, …​ hay que estudiarlo, investigarlo, analizarlo, sintetizarlo, …​, conocerlo, … ​— [Luis Fernandez](https://github.com/USantaTecla-0-general/3-publicaciones/blob/de4d88f4816a72c216ce126685fd457ecc1eebc4/USantaTecla/1-fundamentos/2-conocimiento/index.html#L979)|<big> *No se triunfa de la naturaleza sino obedeciéndola* — [Francis Bacon - Novum Organum. 1620](https://filosofiamaterialesyrecursos.es/Antologia_de_textos/17_Bacon.pdf)
-
-
 
 ## ¿Cómo?
 
