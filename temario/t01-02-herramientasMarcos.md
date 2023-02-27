@@ -57,10 +57,14 @@ Alianzas clave|Alianzas clave que la empresa planea establecer para apoyar su mo
 
 ### Limitaciones
 
-#### La simplicidad **aparente** puede ser su mayor peligro
-
 |Falta de rigor en el análisis|Falsa sensación de seguridad en la toma de decisiones|Falta de flexibilidad en la planificación estratégica|
 -|-|-
 La tentación de reducir un problema complejo a un conjunto limitado de factores puede llevar a omitir información importante y subestimar la complejidad de la situación. Además, al enfocarse en solo unas pocas áreas de interés, se corre el riesgo de pasar por alto factores importantes que pueden afectar la situación de la empresa u organización.|Cuando se utilizan herramientas simplificadas, es posible que las personas subestimen la complejidad de la situación y tomen decisiones precipitadas que pueden tener consecuencias negativas a largo plazo.|Si la situación de la empresa u organización es compleja, es posible que sea necesario tomar en cuenta una amplia gama de factores y considerar múltiples escenarios de futuro. 
+
+<div align=right>
+
+<big>La simplicidad **aparente** puede ser su mayor peligro</big>
+
+</div>
 
 ### [Algunos marcos de trabajo](t01-03-algunosMarcos.md)
