@@ -71,9 +71,9 @@ As usual, hay varios modelos. Por citar dos:
 
 ### Elementos clave
 
-| | |
+|1|2|
 -|-
-|- Vigilar<br />- Focalizar<br />- Capacitarse<br />- Aprender|![](/images/innovacion.png)
+[**Vigilar**](vigilanciaTecnológica.md)<br />[**Focalizar**](focalizar.md)<br />[Capacitarse](capacitarse.md)<br />[**Aprender**](aprender.md)<br />[Implantar](implantar.md) | ![](/images/innovacion.png) 
 
 
 ## A tener en cuenta
