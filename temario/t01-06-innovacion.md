@@ -81,7 +81,7 @@ As usual, hay varios modelos. Por citar dos:
 
 |1|2|
 -|-
-[**Vigilar**](vigilanciaTecnológica.md)<br />[**Focalizar**](focalizar.md)<br />[**Capacitarse**](capacitarse.md)<br />[**Aprender**](aprender.md)<br />[**Implantar**](implantar.md) | ![](/images/innovacion.png) 
+[**Aprender**](aprender.md)<br />[**Vigilar**](vigilanciaTecnológica.md)<br />[**Focalizar**](focalizar.md)<br />[**Capacitarse**](capacitarse.md)<br />[**Implantar**](implantar.md) | ![](/images/innovacion.png) 
 
 ## Enlaces externos & bibliografía
 
