@@ -9,14 +9,17 @@
 
 ## ¿Por qué?
 
-1. Empresa existe.
-1. Otras empresas existen.
-1. Compiten por sobrevivir, necesitan diferenciarse.
-1. Talla única (empresa) / Propuesta única (ecosistema).
+<div align="center">
+
+| | |
+-|-
+|1. Empresa existe.<br />2. Otras empresas existen.<br />3. Compiten por sobrevivir, necesitan diferenciarse.<br />4. Talla única (empresa) / Propuesta única (ecosistema).|<big>Hay que diferenciarse</big>
+
+</div>
 
 ## ¿Qué?
 
-Hay que diferennciarse
+
 
 ## ¿Para qué?
 
