@@ -56,3 +56,7 @@ Apoyo a las buenas ideas por parte de los ejecutivos.
 Recompensar a los innovadores.
 
 </div>
+
+## Ciclo de aprendizaje
+
+![](/images/aprendizaje.png)
