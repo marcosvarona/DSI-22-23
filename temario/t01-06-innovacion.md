@@ -46,7 +46,8 @@ que generen ganancias y valor|
 -|-|-
 |<big><big>Si no se llega al mercado y se obtiene valor no se está desarrollando innovación sino invención o desarrollo tecnológico.</big></big>|La innovación ha de darse con suficiente diferenciación y velocidad de tal  forma que la empresa mantenga retornos por encima del promedio y proteja su sustentabilidad en el tiempo.|La verdadera innovación debe ser un proceso.|
  | |
-No solo la generación de nuevas ideas|Es además implementarlas|Y también crear valor a partir de ellas.
+No solo generar nuevas ideas|Es también implementarlas|Y además crear valor a partir de ellas.
+
 ## ¿Cómo?
 
 
