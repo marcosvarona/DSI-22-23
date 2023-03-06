@@ -11,9 +11,9 @@
 
 <div align="center">
 
-|Si la empresa existe.<br />Si otras empresas existen.<br />Si compiten por sobrevivir<br />Y es evidente que no funciona la talla única (empresa) o propuesta única (ecosistema). | |
--|-
-||*<big><big><b>Hay que diferenciarse</b></big></big>*
+|Si la empresa existe.<br />Si otras empresas existen.<br />Si compiten por sobrevivir| |
+:-|:-:
+|Y es "evidente" que la talla única no funciona|*<big><big><b>Hay que diferenciarse</b></big></big>*
 
 </div>
 
@@ -21,7 +21,9 @@
 
 ## ¿Qué?
 
+Innovación: proceso de negocio que crea nuevos productos, servicios, procesos, modelos de negocio y mercados que entregan valor a sus usuarios.
 
+Un elemento esencial de la innovación es su aplicación exitosa de forma comercial: no solo hay que inventar algo, sino, introducirlo en el mercado para que la gente pueda disfrutar de ello.
 
 ## ¿Para qué?
 
@@ -42,13 +44,12 @@ que generen ganancias y valor|
 
 ||||
 -|-|-
-|Si no se llega al mercado y se obtiene valor no se está desarrollando innovación sino invención o desarrollo tecnológico.|La innovación ha de darse con suficiente diferenciación y velocidad de tal  forma que la empresa mantenga retornos por encima del promedio y proteja su sustentabilidad en el tiempo.|La verdadera innovación debe ser un proceso.|
-
+|<big><big>Si no se llega al mercado y se obtiene valor no se está desarrollando innovación sino invención o desarrollo tecnológico.</big></big>|La innovación ha de darse con suficiente diferenciación y velocidad de tal  forma que la empresa mantenga retornos por encima del promedio y proteja su sustentabilidad en el tiempo.|La verdadera innovación debe ser un proceso.|
 
 ## ¿Cómo?
 
 
-### Tipos
+### Tipos de innovación
 
 |Tipo|Ejemplo|Core|Antes
 -|-|-|-
