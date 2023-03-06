@@ -6,6 +6,4 @@
 
 ## El mundo es muy grande
 
-## No hacer lo ya ejecutado
-
-## Hay que revisar lo que se esta haciendo en el mundo
+## No hacer lo ya ejecutado: Hay que revisar lo que se esta haciendo en el mundo
