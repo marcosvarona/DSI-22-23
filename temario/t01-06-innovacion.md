@@ -11,11 +11,13 @@
 
 <div align="center">
 
-| | |
+|Si la empresa existe.<br />Si otras empresas existen.<br />Si compiten por sobrevivir<br />Y es evidente que no funciona la talla única (empresa) o propuesta única (ecosistema). | |
 -|-
-|1. Empresa existe.<br />2. Otras empresas existen.<br />3. Compiten por sobrevivir, necesitan diferenciarse.<br />4. Talla única (empresa) / Propuesta única (ecosistema).|<big>Hay que diferenciarse</big>
+||*<big><big><b>Hay que diferenciarse</b></big></big>*
 
 </div>
+
+*A propósito de la [talla única](https://medium.com/knowable/why-everything-looks-the-same-bad80133dd6e)...*
 
 ## ¿Qué?
 
