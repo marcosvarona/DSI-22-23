@@ -38,9 +38,9 @@ que generen ganancias y valor|
 
 ### Un modelo de innovación busca proyectos:
 
-* Deseables
-* Técnicamente factibles
-* Económicamente viables
+- Deseables
+- Técnicamente factibles
+- Económicamente viables
 
 ||||
 -|-|-
