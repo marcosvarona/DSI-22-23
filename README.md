@@ -4,14 +4,16 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 
 ## Curso [22][23]
 
-|[Temario](./temario/README.md)|Mapa de los temas vistos en clase. Complementa (no reemplaza) las clases y los apuntes presentes en el campus virtual.|
+|||
 -|-
+|[Temario](./temario/README.md)|Mapa de los temas vistos en clase. Complementa (no reemplaza) las clases y los apuntes presentes en el campus virtual.|
 [Glosario de conceptos clave](./temario/glosario.md)|Conceptos que hay que manejar con cierta soltura y que forman parte del vocabulario habitual de los Sistemas de Información
 [Bibliografía y lecturas recomendadas](./temario/lecturasBibliografia.md)|Libros, artículos, *et al*.
 [Proyectos que abordaremos](docs/proyectos.md)|Parte de la evaluación continua.
 
 ## Herramientas
 
+* [Espacio de la asignatura en el campus Virtual](https://campus.uneatlantico.es/course/view.php?id=2314)
 * Este [repo@github](https://github.com/mmasias)
 * [Notion](https://www.notion.so)
 * Ofimática@Cloud: [Google](https://drive.google.com/) / [Microsoft](https://www.office.com/?auth=1) / [Zoho Docs](https://workdrive.zoho.eu/home)
