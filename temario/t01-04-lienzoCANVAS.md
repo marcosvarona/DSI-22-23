@@ -1,6 +1,17 @@
 # El lienzo del modelo de negocio
 
-![](/images/canvasGMN.png)
+```
++--------------------------------------------------------------------------+
+| Asociaciones | Actividades  | Propuestas   | Relaciones   | Segmentos    |
+| Clave        | Clave        | de           | con          | de           |
+|              |              | Valor        | clientes     | mercado      |
+|              |--------------|              |--------------|              |
+|              | Recursos     |              | Canales      |              |
+|              | clave        |              |              |              |
+|--------------------------------------------------------------------------|
+| Estructura de costes                | Fuentes de ingresos                |
++--------------------------------------------------------------------------+
+```
 
 ## ¿Por qué?
 

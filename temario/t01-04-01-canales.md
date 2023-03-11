@@ -35,11 +35,11 @@ De acuerdo a:|Clientes|Mercado|Propuesta de Valor
 ### Ejemplos 
 
 |Empresa|Qué|Para qué|Cómo
--|-|-|-|
-Tienda de ropa online|Sitio web, aplicaciones móviles, redes sociales, correo electrónico|🤔|🤔|
-Restaurante|Tienda física, servicios de entrega, aplicaciones de entrega de alimentos, sitio web, redes sociales|🤔|🤔|
-Banco|Oficina física, sitio web, aplicaciones móviles, correo directo, publicidad en línea y fuera de línea|🤔|🤔|
-Empresa de programación|Sitio web, aplicaciones móviles, publicidad en línea y fuera de línea, relaciones públicas, ferias y exposiciones|🤔|🤔|
+-|-|:-:|:-:|
+Tienda de ropa online|Sitio web<br />Aplicaciones móviles<br />Redes sociales<br />Correo electrónico|🤔|🤔|
+Restaurante|Tienda física<br />Servicios de entrega<br />Aplicaciones de entrega de alimentos<br />Sitio web<br />Redes sociales|🤔|🤔|
+Banco|Oficina física<br />Sitio web<br />Aplicaciones móviles<br />Correo directo<br />Publicidad en línea<br />Publicidad fuera de línea|🤔|🤔|
+Empresa de desarrollo de software|Sitio web<br />Aplicaciones móviles<br />Publicidad en línea<br />Publicidad fuera de línea<br />Relaciones públicas<br />Ferias, congresos y exposiciones|🤔|🤔|
 
 ### Lecturas recomendadas
 
