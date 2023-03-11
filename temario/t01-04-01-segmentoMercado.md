@@ -1,6 +1,6 @@
 # Lienzo del modelo de negocio > Segmento de Mercado
 
-<table border="1">
+<table>
   <tr>
     <td rowspan="2">AsC</td>
     <td>AC</td>
