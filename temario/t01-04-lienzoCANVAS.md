@@ -4,14 +4,20 @@
 
 ## ¿Por qué?
 
-- Modo abstracción: 9 elementos clave
+- Las empresas, requieren estrategia y planificación para asegurarse supervivencia.
+  - Para definir una adecuada estrategia y preparar una adecuada planificación, entre otras cosas debemos conocer la empresa
+- Además, dado que el ecosistema en el que se desenvuelven las empresas es dinámico, hace falta la innovación.
+  - Entendiendo innovación como un enfoque disciplinado y organizado que permite la creación de nuevas ideas, productos o procesos.
+
+- Tenemos como especie un límite para procesar la información.
 
 ## ¿Qué?
 
+- Modo abstracción: 9 elementos clave
 
 ## ¿Para qué?
 
-Describir de manera visual el modelo de negocio de una empresa, considerando nueve elementos clave.
+Describir de manera visual el **modelo de negocio** de una empresa, considerando nueve elementos clave.
 
 ## ¿Cómo?
 
