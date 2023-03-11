@@ -35,6 +35,8 @@ Se entiende como propuesta de valor a cómo el producto o servicio de una empres
 |Empresa|Qué|Para qué|Cómo
 -|-|-|-|
 Amazon|Propuesta de valor: *Ofrecer la selección más amplia de productos a precios bajos con una experiencia de compra y entrega excepcionales*|Diferenciarse, atraer clientes, aumentar la lealtad|Uso de la tecnología
+Zara|Propuesta de valor: *Ofrecer ropa de alta calidad a precios asequibles con un buen servicio al cliente*||Abordaje de toda la cadena de suministro
+Merrill Lynch|Propuesta de valor: *Servicios financieros personalizados y de alta calidad que ayudan sus clientes a alcanzar sus metas financieras a largo plazo*.||Gama amplia de productos financieros
 
 ### Lecturas recomendadas
 
