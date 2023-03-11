@@ -17,7 +17,15 @@
 
 ## ¿Para qué?
 
-Describir de manera visual el **modelo de negocio** de una empresa, considerando nueve elementos clave.
+Describir de manera visual el **modelo de negocio** de una empresa, considerando estos nueve elementos clave.
+
+Por tanto, permite:
+
+- Identificar oportunidades de negocio y encontrar formas de generar ingresos adicionales.
+- Comprender mejor a los clientes, abriendo la puerta a la creación de nuevos productos y servicios (o adaptación de los existentes).
+- Optimizar la rentabilidad, detectando formas de reducir costos y maximizar los ingresos.
+- Mejorar la eficiencia.
+- Facilitar la toma de decisiones, dado que se basa en hechos y datos.
 
 ## ¿Cómo?
 
@@ -34,6 +42,16 @@ RC|Recursos clave|Los recursos clave son los activos necesarios para ofrecer y p
 AC|Actividades clave|Mediante una serie de actividades clave. 
 AsC|Asociaciones clave|Algunas actividades se externalizan y determinados recursos se adquieren fuera de la empresa. 
 EC|Estructura de costes|Los diferentes elementos del modelo de negocio conforman la estructura de costes.
+
+Es lógica y natural la correspondencia entre los propósitos que motivan la existencia del liezo canvas con los elementos que lo componen: 
+
+||SM|PV|C|RCL|FDI|RC|AC|AsC|EC
+-|-|-|-|-|-|-|-|-|-|
+Identificar oportunidades de negocio|✔|✔|✔|||||||
+Comprender mejor a los clientes|✔|✔||✔||||||
+Optimizar la rentabilidad|||||✔||||✔|
+Mejorar la eficiencia||||||✔|✔|||
+Facilitar la toma de decisiones||✔||||||✔||
 
 ## A tener en cuenta
 
