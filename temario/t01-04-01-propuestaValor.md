@@ -1,14 +1,22 @@
 # Lienzo del modelo de negocio > Propuesta de Valor
 
-```
-+---+---+---+---+---+
-|   |   |***|   |   |
-|   +---+***+---+   |
-|   |   |***|   |   |
-+---+---+-+-+---+---+
-|         |         |
-+---------+---------+
-```
+<table>
+  <tr>
+    <td rowspan="2">AsC</td>
+    <td>AC</td>
+    <td colspan="2" rowspan="2"><b>PdV</b></td>
+    <td>RC</td>
+    <td rowspan="2">SdM</td>
+  </tr>
+  <tr>
+    <td>RC</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="3">EdC</td>
+    <td colspan="3">FdI</td>
+  </tr>
+</table>
 
 En el ecosistema empresarial, igual que la empresa existen muchas otras empresas.
 
