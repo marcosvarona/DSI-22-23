@@ -1,5 +1,15 @@
 # Lienzo del modelo de negocio > Segmento de Mercado
 
+```
++---+---+---+---+---+
+|   |   |   |   |***|
+|   +---+   +---+***|
+|   |   |   |   |***|
++---+---+-+-+---+---+
+|         |         |
++---------+---------+
+```
+
 Segmentar > Dividir. 
 
 La talla única no siempre funciona.

@@ -1,5 +1,15 @@
 # Lienzo del modelo de negocio > Propuesta de Valor
 
+```
++---+---+---+---+---+
+|   |   |***|   |   |
+|   +---+***+---+   |
+|   |   |***|   |   |
++---+---+-+-+---+---+
+|         |         |
++---------+---------+
+```
+
 En el ecosistema empresarial, igual que la empresa existen muchas otras empresas.
 
 La talla única no siempre funciona.
