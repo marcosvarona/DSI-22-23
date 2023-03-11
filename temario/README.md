@@ -10,10 +10,10 @@
     - [x] [Los modelos de Negocio CANVAS](t01-04-lienzoCANVAS.md).
     - [x] [Análisis DAFO](t01-05-analisisDAFO.md).
     - [x] [Otros marcos de trabajo](t01-03-algunosMarcos.md).
-- [ ] Innovación.
+- [ ] [Innovación](t01-06-innovacion.md).
     - [ ] Tipos de Innovación.
     - [ ] Herramientas y marcos de trabajo: el Modelo de Innovación como proceso.
-    - [ ] Estrategia de Océano Azul.
+    - [ ] [Estrategia de Océano Azul](t01-06-innovacionOceanoAzul.md).
 
 ## Funciones de la dirección de sistemas de información
 

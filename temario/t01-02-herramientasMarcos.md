@@ -57,17 +57,14 @@ Alianzas clave|Alianzas clave que la empresa planea establecer para apoyar su mo
 
 ### Limitaciones
 
-#### La simplicidad **aparente** puede ser su mayor peligro
+|Falta de rigor en el análisis|Falsa sensación de seguridad en la toma de decisiones|Falta de flexibilidad en la planificación estratégica|
+-|-|-
+La tentación de reducir un problema complejo a un conjunto limitado de factores puede llevar a omitir información importante y subestimar la complejidad de la situación. Además, al enfocarse en solo unas pocas áreas de interés, se corre el riesgo de pasar por alto factores importantes que pueden afectar la situación de la empresa u organización.|Cuando se utilizan herramientas simplificadas, es posible que las personas subestimen la complejidad de la situación y tomen decisiones precipitadas que pueden tener consecuencias negativas a largo plazo.|Si la situación de la empresa u organización es compleja, es posible que sea necesario tomar en cuenta una amplia gama de factores y considerar múltiples escenarios de futuro. 
 
-En primer lugar, la simplicidad puede conducir a una falta de rigor en el análisis. 
+<div align=right>
 
-La tentación de reducir un problema complejo a un conjunto limitado de factores puede llevar a omitir información importante y subestimar la complejidad de la situación. Además, al enfocarse en solo unas pocas áreas de interés, se corre el riesgo de pasar por alto factores importantes que pueden afectar la situación de la empresa u organización.
+<big>La simplicidad **aparente** puede ser su mayor peligro</big>
 
-En segundo lugar, la simplicidad puede llevar a una falsa sensación de seguridad en la toma de decisiones. Cuando se utilizan herramientas simplificadas, es posible que las personas subestimen la complejidad de la situación y tomen decisiones precipitadas que pueden tener consecuencias negativas a largo plazo.
-
-Por último, la simplicidad también puede conducir a una falta de flexibilidad en la planificación estratégica. Si la situación de la empresa u organización es compleja, es posible que sea necesario tomar en cuenta una amplia gama de factores y considerar múltiples escenarios de futuro. Si se utilizan herramientas simplificadas como el análisis FODA, puede ser difícil adaptarse a los cambios en la situación y ajustar la planificación estratégica en consecuencia.
-
-En conclusión, la simplicidad puede ser una ventaja en ciertos contextos, pero cuando se trata de herramientas de análisis y planificación estratégica, la simplicidad puede ser peligrosa si no se utiliza de manera cuidadosa y reflexiva. Es importante tener en cuenta las limitaciones de estas herramientas y utilizarlas en conjunto con otros métodos de análisis para obtener una comprensión completa y rigurosa de la situación de la empresa u organización.
-
+</div>
 
 ### [Algunos marcos de trabajo](t01-03-algunosMarcos.md)
