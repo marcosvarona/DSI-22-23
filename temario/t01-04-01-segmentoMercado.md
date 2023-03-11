@@ -1,14 +1,22 @@
 # Lienzo del modelo de negocio > Segmento de Mercado
 
-```
-+---+---+---+---+---+
-|   |   |   |   |***|
-|   +---+   +---+***|
-|   |   |   |   |***|
-+---+---+-+-+---+---+
-|         |         |
-+---------+---------+
-```
+<table border="1">
+  <tr>
+    <td rowspan="2">AsC</td>
+    <td>AC</td>
+    <td colspan="2" rowspan="2">PdV</td>
+    <td>RC</td>
+    <td rowspan="2"><b>SdM</b></td>
+  </tr>
+  <tr>
+    <td>RC</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="3">EdC</td>
+    <td colspan="3">FdI</td>
+  </tr>
+</table>
 
 Segmentar > Dividir. 
 
