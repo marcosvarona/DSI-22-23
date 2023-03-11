@@ -2,14 +2,14 @@
 
 - [¿Por qué?](#por-qu%C3%A9)
 - [¿Qué?](#qu%C3%A9)
-    - Sistema
-    - Información
-    - Dirección   
+  - Sistema
+  - Información
+  - Dirección
 - [¿Para qué?](#para-qu%C3%A9)
-    - Objetivos
+  - Objetivos
 - [¿Cómo?](#c%C3%B3mo)
 
-<hr />
+---
 
 ## ¿Por qué?
 
@@ -71,9 +71,9 @@ Solo en el 2007|281 exabytes
 ### #2Think
 
 - Mi huella digital
-    - En redes sociales
-    - Fuera de redes sociales
-    - Cronología de Google
+  - En redes sociales
+  - Fuera de redes sociales
+  - Cronología de Google
 
 - IoT / AI / Cloud / Big Data
 
@@ -118,8 +118,6 @@ Un sistema de información es un conjunto de elementos orientados al tratamiento
 |-|-|-
 Los Sistemas de Información son un mundo apasionante, cambiante, que ofrece cada día nuevos retos y oportunidades de mejora en las organizaciones, y la asignatura “Dirección de Sistemas de Información” prepara al alumnado para abordarlos de forma atractiva y decidida.|En la asignatura estudiaremos las tecnologías de la información y de comunicación desde el punto de vista de su gestión y también de su uso organizativo y social.|La asignatura está enfocada además de a los futuros directores de Sistemas de la Información, a todos los profesionales de la organización que deben comprender la importancia de su papel en la definición, puesta en marcha y mantenimiento de los Sistemas de Información de la empresa.
 
-
-
 ## ¿Para qué?
 
 ### Objetivos
@@ -129,12 +127,12 @@ Los Sistemas de Información son un mundo apasionante, cambiante, que ofrece cad
 1. Entender y empezar a aplicar la gestión de los procesos de innovación dentro de las empresas.
 1. Ofrecer una panorámica de la evolución de las nuevas tecnologías y su impacto en el mundo de la empresa. 
 1. El curso pone un especial énfasis en el desarrollo de las tecnologías asociadas a internet y sus consecuencias:
-    * Innovación a través de IT.
-    * Comercio electrónico y sus implicaciones de cara a la estrategia de las empresas en los distintos sectores.
+    - Innovación a través de IT.
+    - Comercio electrónico y sus implicaciones de cara a la estrategia de las empresas en los distintos sectores.
 1. Se revisarán mediante el uso de ejemplos reales y casos  algunos temas como:
-    * Las bases tecnológicas.
-    * El planteamiento de negocios en la Red.
-    * Los nuevos modelos que van surgiendo en este nuevo entorno y el impacto de las  nuevas tecnologías de la información y comunicaciones en diferentes áreas de la empresa.
+    - Las bases tecnológicas.
+    - El planteamiento de negocios en la Red.
+    - Los nuevos modelos que van surgiendo en este nuevo entorno y el impacto de las  nuevas tecnologías de la información y comunicaciones en diferentes áreas de la empresa.
 1. Desarrollar el espíritu emprendedor en la gestión empresarial, destinada a la consecución de objetivos y aportar valor añadido a la empresa.
 1. Comprender el valor de las herramientas fundamentales en una empresa como los ERP, CRM, SCM y el uso de las nuevas herramientas de sistemas de la información.
 

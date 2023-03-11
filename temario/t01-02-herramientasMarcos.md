@@ -2,9 +2,16 @@
 
 ## ¿Por qué?
 
+### Evaluación contínua
+
+A la propuesta de [contar la realidad de una empresa](/docs/02-modeloDeNegocio.md):
+
 Modelo 1|Modelo 2|Modelo 3|Modelo 4|
 -|-|-|-
 ![](../images/MdN_ABnB_001.png)|![](../images/MdN_HealthyBites_001.png)|![](../images/MdN_ORAN_001.png)|![](../images/modeloNegocioMMV-2009.png)
+
+- **Eficaz**: seguro que sí.
+- **Eficiente**: podemos discutirlo...
 
 ### Evitar ambigüedades en la comunicación
 

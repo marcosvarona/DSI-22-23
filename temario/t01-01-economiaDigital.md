@@ -25,12 +25,12 @@ A medida que las tecnologías digitales se volvieron más accesibles y ampliamen
 <img src="../images/dplnews_uber_transporte_vr180620-1024x570.png" width="30%" align="right"/>
 
 - Antes de la llegada de Uber y Lyft, la forma tradicional de obtener un taxi era llamando a una compañía de taxis o parándolo en la calle.
-- Los pasajeros solían tener que esperar largos períodos de tiempo para conseguir un taxi y, en algunos lugares, podían ser víctimas de precios excesivos o incluso fraudes.
+  - Los pasajeros solían tener que esperar largos períodos de tiempo para conseguir un taxi y, en algunos lugares, podían ser víctimas de precios excesivos o incluso fraudes.
 - Con la llegada de Uber y Lyft, los pasajeros pueden solicitar un viaje desde su teléfono móvil y recibir una respuesta en minutos.
-- La tecnología de geolocalización permite que el conductor se dirija directamente al lugar donde se encuentra el pasajero, lo que ahorra tiempo y reduce el riesgo de confusiones.
-- La tecnología también permite que los pasajeros paguen por sus viajes a través de la aplicación móvil, lo que es más rápido y conveniente que el pago en efectivo.
-- Las empresas de transporte de pasajeros pueden utilizar tecnologías de análisis de datos para comprender mejor a sus clientes y mejorar sus procesos de negocio.
-- Las mejoras en la experiencia del cliente pueden cambiar la forma en que las empresas operan y compiten.
+  - La tecnología de geolocalización permite que el conductor se dirija directamente al lugar donde se encuentra el pasajero, lo que ahorra tiempo y reduce el riesgo de confusiones.
+  - La tecnología también permite que los pasajeros paguen por sus viajes a través de la aplicación móvil, lo que es más rápido y conveniente que el pago en efectivo.
+  - Las empresas de transporte de pasajeros pueden utilizar tecnologías de análisis de datos para comprender mejor a sus clientes y mejorar sus procesos de negocio.
+  - Las mejoras en la experiencia del cliente pueden cambiar la forma en que las empresas operan y compiten.
 
 > #notaMental: mencionar el Manifiesto Cluetrain y la bidireccionalidad del efecto Empresa - Tecnología - Cliente
 
@@ -40,9 +40,9 @@ A medida que las tecnologías digitales se volvieron más accesibles y ampliamen
 
 - Antes de la llegada de Airbnb, los turistas reservaban alojamiento en hoteles, moteles y otras empresas de alojamiento.
 - Airbnb permite a cualquier persona ofrecer habitaciones o viviendas para alquilar a través de la plataforma.
-- Los precios de Airbnb son flexibles y pueden variar según la oferta y la demanda.
-- Airbnb ofrece a los huéspedes una experiencia de alojamiento más personalizada y auténtica al alojarse en viviendas privadas y tener contacto directo con los anfitriones.
-- Airbnb utiliza tecnologías digitales como el análisis de datos para comprender mejor las preferencias de los huéspedes y mejorar la experiencia de usuario.
+  - Los precios de Airbnb son flexibles y pueden variar según la oferta y la demanda.
+  - Airbnb ofrece a los huéspedes una experiencia de alojamiento más personalizada y auténtica al alojarse en viviendas privadas y tener contacto directo con los anfitriones.
+  - Airbnb utiliza tecnologías digitales como el análisis de datos para comprender mejor las preferencias de los huéspedes y mejorar la experiencia de usuario.
 
 ## ¿Qué?
 

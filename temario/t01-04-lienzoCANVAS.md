@@ -58,7 +58,9 @@ Sigla|Nombre|Descripción
 [AsC](t01-04-01-asociacionesClave.md)|Asociaciones clave|Algunas actividades se externalizan y determinados recursos se adquieren fuera de la empresa. 
 [EC](t01-04-01-estructuraDeCostes.md)|Estructura de costes|Los diferentes elementos del modelo de negocio conforman la estructura de costes.
 
-Es lógica y natural la correspondencia entre los propósitos que motivan la existencia del liezo canvas con los elementos que lo componen: 
+Es lógica y natural la correspondencia entre los propósitos que motivan la existencia del liezo canvas (*¿para qué?*) con los elementos que lo componen (*¿cómo?*): 
+
+<div align="center">
 
 ||SM|PV|C|RCL|FDI|RC|AC|AsC|EC
 -|-|-|-|-|-|-|-|-|-|
@@ -67,6 +69,8 @@ Comprender mejor a los clientes|✔|✔||✔||||||
 Optimizar la rentabilidad|||||✔||||✔|
 Mejorar la eficiencia||||||✔|✔|||
 Facilitar la toma de decisiones||✔||||||✔||
+
+</div>
 
 ## A tener en cuenta
 
