@@ -1,5 +1,8 @@
 # El lienzo del modelo de negocio
 
+![](/images/canvasGMN.png)
+
+<!-- // 
 ```
 +--------------------------------------------------------------------------+
 | Asociaciones | Actividades  | Propuestas   | Relaciones   | Segmentos    |
@@ -12,6 +15,7 @@
 | Estructura de costes                | Fuentes de ingresos                |
 +--------------------------------------------------------------------------+
 ```
+// -->
 
 ## ¿Por qué?
 
