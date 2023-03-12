@@ -5,27 +5,23 @@
 
 ## [Modelos de negocio e innovación](./t01-modelosDeNegocioInnovacion.md)
 
-- [x] [Economía Digital](t01-01-economiaDigital.md).
-- [x] [Herramientas y marcos de trabajo](t01-02-herramientasMarcos.md).
-    - [x] [Los modelos de Negocio CANVAS](t01-04-lienzoCANVAS.md).
-    - [x] [Análisis DAFO](t01-05-analisisDAFO.md).
-    - [x] [Otros marcos de trabajo](t01-03-algunosMarcos.md).
-- [ ] [Innovación](t01-06-innovacion.md).
-    - [ ] Tipos de Innovación.
-    - [ ] Herramientas y marcos de trabajo: el Modelo de Innovación como proceso.
-    - [ ] [Estrategia de Océano Azul](t01-06-innovacionOceanoAzul.md).
+- [x] [Economía Digital](t01-01-economiaDigital.md)
+- [x] [Herramientas y marcos de trabajo](t01-02-herramientasMarcos.md)
+    - [x] [Los modelos de Negocio CANVAS](t01-04-lienzoCANVAS.md)
+    - [x] [Análisis DAFO](t01-05-analisisDAFO.md)
+    - [x] [Otros marcos de trabajo](t01-03-algunosMarcos.md)
+- [ ] [Innovación](t01-06-innovacion.md)
+    - [ ] Tipos de Innovación
+    - [ ] Herramientas y marcos de trabajo: el Modelo de Innovación como proceso
+    - [ ] [Estrategia de Océano Azul](t01-06-innovacionOceanoAzul.md)
 
-## Funciones de la dirección de sistemas de información
+## [Funciones de la dirección de sistemas de información](t02-00-funcionesDSI.md)
 
-<details><summary>Pulse para ver el contenido planteado</summary>
-
-- [ ] Definición de Sistemas de la información en las organizaciones.
-- [ ] Evolución histórica.
-- [ ] Recursos Materiales y datos: Elementos básicos (Hardware y Software).
-- [ ] Personas: Como nos organizamos.
-- [ ] Actividades de la DSI.
-
-</details>
+- [ ] [Definición de Sistemas de la información en las organizaciones](t02-01-definicion.md)
+- [ ] Evolución histórica
+- [ ] Recursos Materiales y datos: Elementos básicos (Hardware y Software)
+- [ ] Personas: Como nos organizamos
+- [ ] Actividades de la DSI
 
 ## Estrategia y planificación de los sistemas de información
 
