@@ -50,6 +50,7 @@ No solo generar nuevas ideas|Es también implementarlas|Y además crear valor a 
 
 ## ¿Cómo?
 
+Mediante un proceso sistémico, abordándolo como un [proceso de aprendizaje con 4 fases iterativas e incrementales](t01-06-innovacionComoProceso.md): vigilar, focalizar, capacitarse e implantar, apoyándose en modelos preestablecidos y utilizando herramientas para fomentar la creatividad.
 
 ### Modelos 
 
