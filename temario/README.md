@@ -12,7 +12,7 @@
   - [x] [Otros marcos de trabajo](t01-03-algunosMarcos.md)
 - [ ] [Innovación](t01-06-innovacion.md)
   - [ ] Tipos de Innovación
-  - [ ] Herramientas y marcos de trabajo: el Modelo de Innovación como proceso
+  - [ ] [Herramientas y marcos de trabajo: el Modelo de Innovación como proceso](t01-06-innovacionComoProceso.md)
   - [ ] [Estrategia de Océano Azul](t01-06-innovacionOceanoAzul.md)
 
 ## [Funciones de la dirección de sistemas de información](t02-00-funcionesDSI.md)
