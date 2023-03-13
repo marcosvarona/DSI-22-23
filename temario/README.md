@@ -17,8 +17,7 @@
 
 ## [Funciones de la dirección de sistemas de información](t02-00-funcionesDSI.md)
 
-- [ ] [Definición de Sistemas de la información en las organizaciones](t02-01
--definicion.md)
+- [ ] [Definición de Sistemas de la información en las organizaciones](t02-01-definicion.md)
 - [ ] Evolución histórica
 - [ ] [Recursos Materiales y datos: Elementos básicos (Hardware y Software)](t02-04-componentes.md)
 - [ ] Personas: Como nos organizamos
