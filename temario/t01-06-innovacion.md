@@ -77,12 +77,6 @@ As usual, hay varios modelos. Por citar dos:
 - Design thinking
 - Storytelling
 
-### Elementos clave
-
-|1|2|
--|-
-[**Aprender**](aprender.md)<br />[**Vigilar**](vigilanciaTecnológica.md)<br />[**Focalizar**](focalizar.md)<br />[**Capacitarse**](capacitarse.md)<br />[**Implantar**](implantar.md) | ![](/images/innovacion.png) 
-
 ## Enlaces externos & bibliografía
 
 1. [Libro DSI - UNEATLANTICO](https://campus.uneatlantico.es/pluginfile.php/68989/mod_folder/content/0/Libro%20DSI%20-%20UNEATLANTICO.pdf?forcedownload=1) - Capítulo 5
