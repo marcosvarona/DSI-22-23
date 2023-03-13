@@ -13,13 +13,11 @@
 
 ## ¿Qué?
 
-
-
-## ¿Para qué?
-
-
-
-## ¿Cómo?
+|80s|90s|2000|2010|
+-|-|-|-
+Eficiencia|Eficacia|Ventajas competitivas|Nuevos modelos
+Bajar costos|Mayor productividad|Competitividad|Diferenciación
+Más por menos||Crecimiento del negocio|Datos, IA
 
 
 

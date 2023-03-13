@@ -35,8 +35,13 @@ Innovar|Innovar = Buscar mercados alternativos|Un producto cuya competencia no l
 
 ## A tener en cuenta
 
-![Océano azul](/images/oceanoRojoAzul.png)
-
+|Océano Rojo|Océano Azul|
+-|-
+Competir en el espacio existente del mercado|Crear un espacio sin competencia en el mercado
+Retar a la competencia|Volver irrelevante a la competencia
+Explotar la demanda existente en el mercado|Crear y captar nueva demanda
+Tener que elegir entre valor o coste|Romper la disyuntuva entre valor y coste
+Alinear todo el sistema de la empresa con la decisión de la diferenciación o del bajo coste|Alinear todo el sistema de la empresa para lograr la diferenciación o del bajo coste
 
 ### Ejemplos poco conocidos
 
@@ -48,4 +53,3 @@ En lugar de competir en un mercado saturado de soluciones de limpieza de plásti
 ## Enlaces externos & bibliografía
 
 - [En la búsqueda del océano azul](https://soyceo.org/articulo/en-la-busqueda-del-oceano-azul)
-- 
