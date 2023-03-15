@@ -69,3 +69,7 @@ As usual, hay varios modelos. Por citar dos:
 ## Enlaces externos & bibliografía
 
 1. [Libro DSI - UNEATLANTICO](https://campus.uneatlantico.es/pluginfile.php/68989/mod_folder/content/0/Libro%20DSI%20-%20UNEATLANTICO.pdf?forcedownload=1) - Capítulo 5
+
+### Lecturas relacionadas
+
+- [How Microsoft Became Innovative Again](https://hbr.org/2023/02/how-microsoft-became-innovative-again), *Behnam Tabrizi* Harvard Business Review (:twitter:[@TabriziBehnam](https://twitter.com/TabriziBehnam))
