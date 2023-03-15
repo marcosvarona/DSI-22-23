@@ -72,4 +72,4 @@ As usual, hay varios modelos. Por citar dos:
 
 ### Lecturas relacionadas
 
-- [How Microsoft Became Innovative Again](https://hbr.org/2023/02/how-microsoft-became-innovative-again), *Behnam Tabrizi* Harvard Business Review (:twitter:[@TabriziBehnam](https://twitter.com/TabriziBehnam))
+- [How Microsoft Became Innovative Again](https://hbr.org/2023/02/how-microsoft-became-innovative-again), *Behnam Tabrizi* Harvard Business Review [![@TabriziBehnam](https://img.shields.io/badge/-@TabriziBehnam-000?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/TabriziBehnam)
