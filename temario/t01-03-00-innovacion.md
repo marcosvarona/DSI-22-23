@@ -56,8 +56,8 @@ Mediante un proceso sistémico, abordándolo como un [proceso de aprendizaje con
 
 As usual, hay varios modelos. Por citar dos:
 
-- [Modelo de Marquis](modeloMarquis.md)
-- [Modelo de Triz](modeloTriz.md)
+- [Modelo de Marquis](t01-03-00-s01-modeloMarquis.md)
+- [Modelo de Triz](t01-03-00-s02-modeloTriz.md)
 
 ### Herramientas de creatividad
 

@@ -15,7 +15,7 @@
 
 ## ¿Cómo?
 
-Mediante la [innovación](/temario/t01-06-innovacion.md)
+Mediante la [innovación](/temario/t01-03-00-innovacion.md)
 
 ### Entendiendo la innovación
 

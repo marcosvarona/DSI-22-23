@@ -77,5 +77,5 @@ No considera la interacción entre los factores|Al ser una abstracción, se anal
 
 ### Qué hacer para mitigar estas limitaciones
 
-Primero, [analizarlo](t01-05-01-metaDAFO.md).
+Primero, [analizarlo](t01-02-02-s01-metaDAFO.md).
 

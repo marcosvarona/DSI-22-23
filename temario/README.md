@@ -1,27 +1,28 @@
 # Temario
 
 ## Introducción
-- [x] [Introducción a la asignatura](t00-introduccion.md)
 
-## [Modelos de negocio e innovación](./t01-modelosDeNegocioInnovacion.md)
+- [x] [Introducción a la asignatura](t00-00-00-introduccion.md)
 
-- [x] [Economía Digital](t01-01-economiaDigital.md)
-- [x] [Herramientas y marcos de trabajo](t01-02-herramientasMarcos.md)
-  - [x] [Los modelos de Negocio CANVAS](t01-04-lienzoCANVAS.md)
-  - [x] [Análisis DAFO](t01-05-analisisDAFO.md)
-  - [x] [Otros marcos de trabajo](t01-03-algunosMarcos.md)
-- [x] [Innovación](t01-06-innovacion.md)
-  - [x] [Tipos de Innovación](t01-06-innovacionTipos.md)
-  - [x] [Herramientas y marcos de trabajo: el Modelo de Innovación como proceso](t01-06-innovacionComoProceso.md)
-  - [x] [Estrategia de Océano Azul](t01-06-innovacionOceanoAzul.md)
+## [Modelos de negocio e innovación](./t01-00-00-modelosDeNegocioInnovacion.md)
 
-## [Funciones de la dirección de sistemas de información](t02-00-funcionesDSI.md)
+- [x] [Economía Digital](t01-01-00-economiaDigital.md)
+- [x] [Herramientas y marcos de trabajo](t01-02-00-herramientasMarcos.md)
+  - [x] [El lienzo de modelo de negocio](t01-02-01-lienzoModeloNegocio.md)
+  - [x] [Análisis DAFO](t01-02-02-analisisDAFO.md)
+  - [x] [Otros marcos de trabajo](t01-02-03-algunosMarcos.md)
+- [x] [Innovación](t01-03-00-innovacion.md)
+  - [x] [Tipos de Innovación](t01-03-01-innovacionTipos.md)
+  - [x] [El Modelo de Innovación como proceso](t01-03-02-innovacionComoProceso.md)
+  - [x] [Estrategia de Océano Azul](t01-03-03-innovacionOceanoAzul.md)
 
-- [ ] [Definición de Sistemas de la información en las organizaciones](t02-01-definicion.md)
-- [ ] Evolución histórica
-- [ ] [Recursos Materiales y datos: Elementos básicos (Hardware y Software)](t02-04-componentes.md)
+## [Funciones de la dirección de sistemas de información](t02-00-00-funcionesDSI.md)
+
+- [ ] [Definición de Sistemas de la información en las organizaciones](t02-01-00-definicion.md)
+- [ ] [Evolución histórica](t02-02-00-evolucion.md)
+- [ ] [Recursos Materiales y datos: Elementos básicos (Hardware y Software)](t02-03-00-componentes.md)
 - [ ] Personas: Como nos organizamos
-- [ ] [Actividades de la DSI](t02-03-actividades.md)
+- [ ] [Actividades de la DSI](t02-05-00-actividades.md)
 
 ## Estrategia y planificación de los sistemas de información
 
