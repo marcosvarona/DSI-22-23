@@ -7,8 +7,8 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 |||
 -|-
 |[Temario](./temario/README.md)|Mapa de los temas vistos en clase. Complementa (no reemplaza) las clases y los apuntes presentes en el campus virtual.|
-[Glosario de conceptos clave](./temario/glosario.md)|Conceptos que hay que manejar con cierta soltura y que forman parte del vocabulario habitual de los Sistemas de Información
-[Bibliografía y lecturas recomendadas](./temario/lecturasBibliografia.md)|Libros, artículos, *et al*.
+[Glosario de conceptos clave](./docs/glosario.md)|Conceptos que hay que manejar con cierta soltura y que forman parte del vocabulario habitual de los Sistemas de Información
+[Bibliografía y lecturas recomendadas](./lecturasBibliografia.md)|Libros, artículos, *et al*.
 [Proyectos que abordaremos](docs/README.md)|Parte de la evaluación continua.
 [Un número al día](docs/unNumeroAlDia.md)|Un número al día...
 
