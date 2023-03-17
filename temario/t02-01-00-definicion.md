@@ -30,11 +30,15 @@
 
 ### Información
 
-|La información son los datos tratados que nos permiten llegar al conocimiento||
--|
+<div align="center">
+
+|La información son los datos tratados que nos permiten llegar al conocimiento|
+|:-:|
 |![](/images/piramideDIKW.png)|
 |[Conocimiento...](https://docs.google.com/presentation/d/1QJdg8M0iOwv1gxydwcza6X0dkZmrlaxFf1PH87X7gRo/edit?usp=sharing)|
 
+</div>
+  
 ### Sistema de Información
 
 Un sistema de información es un conjunto de elementos orientados al tratamiento y administración de datos e información, organizados y listos para su uso posterior, generados para cubrir una necesidad o un objetivo
