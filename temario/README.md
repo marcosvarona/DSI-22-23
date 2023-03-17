@@ -26,7 +26,7 @@
   - [x] [Conocimiento](t02-04-00-s02-conocimiento.md)
 - [ ] [Actividades de la DSI](t02-05-00-actividades.md)
 
-## Estrategia y planificación de los sistemas de información
+## :black_square_button: Estrategia y planificación de los sistemas de información
 
 <details><summary>Pulse para ver el contenido planteado</summary>
 
@@ -41,7 +41,7 @@
 
 </details>
 
-## Gestión de proyectos de integración de sistemas
+## :black_square_button: Gestión de proyectos de integración de sistemas
 
 <details><summary>Pulse para ver el contenido planteado</summary>
 
@@ -53,7 +53,7 @@
 
 </details>
 
-## Gestión de operaciones
+## :black_square_button: Gestión de operaciones
 
 <details><summary>Pulse para ver el contenido planteado</summary>
 
@@ -65,7 +65,7 @@
 
 </details>
 
-## Gestión de proveedores y seguridad
+## :black_square_button: Gestión de proveedores y seguridad
 
 <details><summary>Pulse para ver el contenido planteado</summary>
 
@@ -79,7 +79,7 @@
 
 </details>
 
-## Comercio electrónico
+## :black_square_button: Comercio electrónico
 
 <details><summary>Pulse para ver el contenido planteado</summary>
 
