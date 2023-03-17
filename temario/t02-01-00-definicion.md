@@ -30,7 +30,10 @@
 
 ### Información
 
-[Conocimiento...](https://docs.google.com/presentation/d/1QJdg8M0iOwv1gxydwcza6X0dkZmrlaxFf1PH87X7gRo/edit?usp=sharing)
+|La información son los datos tratados que nos permiten llegar al conocimiento||
+-|
+|![](/images/piramideDIKW.png)|
+|[Conocimiento...](https://docs.google.com/presentation/d/1QJdg8M0iOwv1gxydwcza6X0dkZmrlaxFf1PH87X7gRo/edit?usp=sharing)|
 
 ### Sistema de Información
 
