@@ -1,10 +1,10 @@
 # Temario
 
-## Introducción
+## [ ] Introducción
 
 - [x] [Introducción a la asignatura](t00-00-00-introduccion.md)
 
-## [Modelos de negocio e innovación](./t01-00-00-modelosDeNegocioInnovacion.md)
+## [x] [Modelos de negocio e innovación](./t01-00-00-modelosDeNegocioInnovacion.md)
 
 - [x] [Economía Digital](t01-01-00-economiaDigital.md)
 - [x] [Herramientas y marcos de trabajo](t01-02-00-herramientasMarcos.md)
