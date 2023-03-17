@@ -1,10 +1,10 @@
 # Temario
 
-## ❎ Introducción
+## :white_square_button: Introducción
 
 - [x] [Introducción a la asignatura](t00-00-00-introduccion.md)
 
-## ❎ [Modelos de negocio e innovación](./t01-00-00-modelosDeNegocioInnovacion.md)
+## :white_square_button: [Modelos de negocio e innovación](./t01-00-00-modelosDeNegocioInnovacion.md)
 
 - [x] [Economía Digital](t01-01-00-economiaDigital.md)
 - [x] [Herramientas y marcos de trabajo](t01-02-00-herramientasMarcos.md)
@@ -16,7 +16,7 @@
   - [x] [El Modelo de Innovación como proceso](t01-03-02-innovacionComoProceso.md)
   - [x] [Estrategia de Océano Azul](t01-03-03-innovacionOceanoAzul.md)
 
-## ⬜ [Funciones de la dirección de sistemas de información](t02-00-00-funcionesDSI.md)
+## :black_square_button: [Funciones de la dirección de sistemas de información](t02-00-00-funcionesDSI.md)
 
 - [x] [Definición de Sistemas de la información en las organizaciones](t02-01-00-definicion.md)
 - [ ] [Evolución histórica](t02-02-00-evolucion.md)
