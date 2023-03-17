@@ -11,12 +11,18 @@ Los sistemas de información son fundamentales en la era actual debido a su capa
 |||
 -|-
 Hardware|Incluye dispositivos físicos como servidores, ordenadores, dispositivos de almacenamiento y otros periféricos que permiten la entrada, el procesamiento, el almacenamiento y la salida de datos.
-Software|Son los programas y aplicaciones que permiten a los dispositivos de hardware procesar y gestionar los datos. El software puede incluir sistemas operativos, aplicaciones empresariales, bases de datos y herramientas de análisis.
+Software|Es la información que suministra el desarrollador a la computadora para que manipule de forma automática la información que suministrará el usuario — *Brad Cox*
 Datos|Son los elementos básicos que el sistema de información recopila, almacena y procesa. Pueden ser estructurados (como en una base de datos) o no estructurados (como imágenes, vídeos, correos electrónicos, etc.).
 Procedimientos|Son las instrucciones y reglas que guían el uso y funcionamiento del sistema de información. Los procedimientos pueden incluir políticas de seguridad, procesos de respaldo, protocolos de acceso y otros.
 Usuarios|Son las personas que interactúan con el sistema de información para realizar sus tareas y tomar decisiones. Los usuarios pueden ser empleados, clientes, proveedores u otras partes interesadas.
 
 Ej.: [Tu móvil](t02-03-00-s04-tuMovil.md) / [Esta clase](t02-03-00-s03-unaClase.md) / [Universidad](t02-03-00-s00-laUniversidad.md) / [Farmacia](t02-03-00-s01-unaFarmacia.md) / [Misión Espacial](t02-03-00-s02-misionEspacial.md)
+
+<div align="center">
+
+![](/images/informacionRecursiva.svg)
+
+</div>
 
 ## ¿Para qué?
 
