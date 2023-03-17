@@ -59,9 +59,17 @@ Un sistema de información es un conjunto de elementos orientados al tratamiento
 
 Organizando estos elementos para procesar los datos (incluidos los procesos manuales y automáticos) y dar lugar a información más elaborada, que se distribuya de la manera más adecuada posible en una determinada organización, en función de sus objetivos.
 
-|Recopilación|Almacenamiento|Procesamiento|Distribución|
+<div align="center">
+
+![](/images/elementosInteraccionDSI.png)
+
+</div>
+
+|Recopilación >>|Almacenamiento >>|Procesamiento >>|Distribución >>|
 -|-|-|-
 Captura o recolecta datos en bruto tanto del interior de la organización como de su entorno externo.|Guardar de forma estructurada la información recopilada.|Convierte esa entrada de datos en una forma más significativa.|Transfiere la información procesada a las personas o roles que la usarán.
+
+
 
 ## A tener en cuenta
 
