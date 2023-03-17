@@ -1,11 +1,12 @@
-# Definición de Sistema de Información
-
----
+# Definición de Sistemas de Información
 
 ## ¿Por qué?
 
 - Las organizaciones requieren tomar decisiones informadas y a mejorar la eficiencia operativa.
-- Las organizaciones necesitan recopilar, procesar y almacenar información de manera eficiente y efectiva. 
+- Las organizaciones necesitan recopilar, procesar y almacenar información de manera eficiente y efectiva.
+- Las organizaciones tienen diversos componentes que interactuan entre sí de modo organizado para cumplir con estos dos puntos previos.
+
+A medida que la sociedad en general y las organizaciones en particular se volvieron más complejas y dependientes de la información, se hizo evidente que hacían falta soluciones estructuradas y sistemáticas para enfrentar estos desafíos.
 
 ## ¿Qué?
 
@@ -51,8 +52,8 @@ Un sistema de información es un conjunto de elementos orientados al tratamiento
 
 ## ¿Para qué?
 
-- Para ayudar a las organizaciones a mejorar la eficiencia operativa, reducir los costos, aumentar la calidad de los productos y servicios y tomar decisiones más informadas.
-- Para ayudar a las organizaciones a mantenerse competitivas en un entorno empresarial en constante cambio.
+- Para ayudar a organizar, procesar y gestionar esta información de manera eficiente.
+- Para ayudar a las organizaciones a mantenerse competitivas  tomando decisiones informadas basadas en datos precisos y actualizados.
 
 ## ¿Cómo?
 
