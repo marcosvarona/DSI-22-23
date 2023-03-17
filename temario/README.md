@@ -22,6 +22,8 @@
 - [ ] [Evolución histórica](t02-02-00-evolucion.md)
 - [x] [Componentes](t02-03-00-componentes.md)
 - [ ] [Personas: como nos organizamos](t02-04-00-personas.md)
+  - [ ] [Funciones](t02-04-00-s01-funciones.md)
+  - [ ] [Conocimiento](t02-04-00-s02-conocimiento.md)
 - [ ] [Actividades de la DSI](t02-05-00-actividades.md)
 
 ## Estrategia y planificación de los sistemas de información
