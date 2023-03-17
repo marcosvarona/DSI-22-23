@@ -16,6 +16,8 @@ Datos|Son los elementos básicos que el sistema de información recopila, almace
 Procedimientos|Son las instrucciones y reglas que guían el uso y funcionamiento del sistema de información. Los procedimientos pueden incluir políticas de seguridad, procesos de respaldo, protocolos de acceso y otros.
 Usuarios|Son las personas que interactúan con el sistema de información para realizar sus tareas y tomar decisiones. Los usuarios pueden ser empleados, clientes, proveedores u otras partes interesadas.
 
+Ej.: [Universidad](t02-03-00-s00-laUniversidad.md) / [Farmacia](t02-03-00-s01-unaFarmacia.md) / [Misión Espacial](t02-03-00-s02-misionEspacial.md)
+
 ## ¿Para qué?
 
 Comprender los componentes de un sistema de información es esencial para saber cómo diseñar, implementar y mantener estos sistemas de manera eficiente, permitiendo a las organizaciones:
