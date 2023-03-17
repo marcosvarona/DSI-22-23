@@ -1,10 +1,10 @@
 # Temario
 
-## :white_square_button: Introducción
+## Introducción
 
 - [x] [Introducción a la asignatura](t00-00-00-introduccion.md)
 
-## :white_square_button: [Modelos de negocio e innovación](./t01-00-00-modelosDeNegocioInnovacion.md)
+## [Modelos de negocio e innovación](./t01-00-00-modelosDeNegocioInnovacion.md)
 
 - [x] [Economía Digital](t01-01-00-economiaDigital.md)
 - [x] [Herramientas y marcos de trabajo](t01-02-00-herramientasMarcos.md)
@@ -16,7 +16,7 @@
   - [x] [El Modelo de Innovación como proceso](t01-03-02-innovacionComoProceso.md)
   - [x] [Estrategia de Océano Azul](t01-03-03-innovacionOceanoAzul.md)
 
-## :black_square_button: [Funciones de la dirección de sistemas de información](t02-00-00-funcionesDSI.md)
+## [Funciones de la dirección de sistemas de información](t02-00-00-funcionesDSI.md)
 
 - [x] [Definición de Sistemas de la información en las organizaciones](t02-01-00-definicion.md)
 - [ ] [Evolución histórica](t02-02-00-evolucion.md)
@@ -26,7 +26,7 @@
   - [x] [Conocimiento](t02-04-00-s02-conocimiento.md)
 - [ ] [Actividades de la DSI](t02-05-00-actividades.md)
 
-## :black_square_button: Estrategia y planificación de los sistemas de información
+## Estrategia y planificación de los sistemas de información
 
 <details><summary>Pulse para ver el contenido planteado</summary>
 
@@ -41,7 +41,7 @@
 
 </details>
 
-## :black_square_button: Gestión de proyectos de integración de sistemas
+## Gestión de proyectos de integración de sistemas
 
 <details><summary>Pulse para ver el contenido planteado</summary>
 
@@ -53,7 +53,7 @@
 
 </details>
 
-## :black_square_button: Gestión de operaciones
+## Gestión de operaciones
 
 <details><summary>Pulse para ver el contenido planteado</summary>
 
@@ -65,7 +65,7 @@
 
 </details>
 
-## :black_square_button: Gestión de proveedores y seguridad
+## Gestión de proveedores y seguridad
 
 <details><summary>Pulse para ver el contenido planteado</summary>
 
@@ -79,7 +79,7 @@
 
 </details>
 
-## :black_square_button: Comercio electrónico
+## Comercio electrónico
 
 <details><summary>Pulse para ver el contenido planteado</summary>
 
