@@ -1,0 +1,21 @@
+class Escritura
+
+package biblioteca {
+
+    package libro
+    {
+    class Cuneiforme
+    class Jeroglificos
+    }
+
+    package libros{}
+    package libros.{}
+    package libros..{}
+
+}
+
+Cuneiforme -U-|> Escritura
+Jeroglificos -U-|> Escritura
+
+
+
