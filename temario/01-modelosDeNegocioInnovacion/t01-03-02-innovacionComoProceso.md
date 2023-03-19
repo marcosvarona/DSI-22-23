@@ -15,7 +15,7 @@
         </ul>
     </td>
     <td>
-    <img src="../images/innovacion.png">
+    <img src="../../images/innovacion.png">
     </td>
   </tr>
 </table>
