@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/-Tabla_de_contenidos-000?style=flat&logo=Emlakjet&logoColor=red)](./README.md)
+[![](https://img.shields.io/badge/-Tabla_de_contenidos-000?style=flat&logo=Emlakjet&logoColor=red)](../README.md)
 
 # Dirección de Sistemas de Información - Introducción
 
