@@ -1,5 +1,6 @@
 # Funciones del Director de Sistemas de Información
 
+# ¿Cómo?
 |||
 -|-
 La creación de valor|Cómo los sistemas de información deben crear valor para la empresa y cómo debe entender el modelo de negocio.

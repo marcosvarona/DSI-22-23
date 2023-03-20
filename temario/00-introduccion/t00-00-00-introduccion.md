@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/-Tabla_de_contenidos-000?style=flat&logo=Emlakjet&logoColor=red)](./README.md)
+[![](https://img.shields.io/badge/-Tabla_de_contenidos-000?style=flat&logo=Emlakjet&logoColor=red)](../README.md)
 
 # Dirección de Sistemas de Información - Introducción
 
@@ -134,4 +134,4 @@ Los Sistemas de Información son un mundo apasionante, cambiante, que ofrece cad
 |Dimensión|Detalle
 |-|-
 |Estratégica|Plan de Estudios & Guía docente / [Competencias](./t00-00-00-s00-competencias.md) / [Resultados de Aprendizaje](./t00-00-00-s01-resultadosDeAprendizaje.md)
-|Ejecutiva|[Temario](./README.md) / [Sesiones](https://docs.google.com/spreadsheets/d/106_hqbH8_U0hYLfYHcha7SrZP-wTm2scg5PHYZabSB4/edit#gid=1238964059) /  [Evaluación](./t00-00-00-s03-evaluacion.md)
+|Ejecutiva|[Temario](../README.md) / [Sesiones](https://docs.google.com/spreadsheets/d/106_hqbH8_U0hYLfYHcha7SrZP-wTm2scg5PHYZabSB4/edit#gid=1238964059) /  [Evaluación](./t00-00-00-s03-evaluacion.md)

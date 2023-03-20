@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/-Tabla_de_contenidos-000?style=flat&logo=Emlakjet&logoColor=red)](./README.md)
+[![](https://img.shields.io/badge/-Tabla_de_contenidos-000?style=flat&logo=Emlakjet&logoColor=red)](../README.md)
 [![](https://img.shields.io/badge/-Inicio%20de%20cap%C3%ADtulo-000?style=flat&logo=Acclaim&logoColor=red)](./t01-00-00-modelosDeNegocioInnovacion.md)
 
 # Economía digital
@@ -25,7 +25,7 @@ A medida que las tecnologías digitales se volvieron más accesibles y ampliamen
 
 ### Ej.: Taxis, Uber & Lyft
 
-<img src="../images/dplnews_uber_transporte_vr180620-1024x570.png" width="30%" align="right"/>
+<img src="../../images/dplnews_uber_transporte_vr180620-1024x570.png" width="30%" align="right"/>
 
 - Antes de la llegada de Uber y Lyft, la forma tradicional de obtener un taxi era llamando a una compañía de taxis o parándolo en la calle.
   - Los pasajeros solían tener que esperar largos períodos de tiempo para conseguir un taxi y, en algunos lugares, podían ser víctimas de precios excesivos o incluso fraudes.
@@ -39,7 +39,7 @@ A medida que las tecnologías digitales se volvieron más accesibles y ampliamen
 
 ### Ej.: Hoteles y AirBnB
 
-<img src="../images/airbnb.png" width="30%" align="right"/>
+<img src="../../images/airbnb.png" width="30%" align="right"/>
 
 - Antes de la llegada de Airbnb, los turistas reservaban alojamiento en hoteles, moteles y otras empresas de alojamiento.
 - Airbnb permite a cualquier persona ofrecer habitaciones o viviendas para alquilar a través de la plataforma.

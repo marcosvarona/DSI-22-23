@@ -1,0 +1,69 @@
+class CEO {
+    CHIEF EXECUTIVE OFFICER
+    Director Ejecutivo
+}
+
+class COO{
+    CHIEF OPERATING OFFICER
+    Director de Operaciones
+}
+
+class CMO{
+    CHIEF MARKETING OFFICER
+    Director de Marketing
+}
+
+class CFO{
+    CHIEF FINANCIAL OFFICER
+    Director Financiero
+}
+
+class CIO{
+    CHIEF INFORMATION OFFICER
+    Director de Información
+}
+
+class CTO{
+    CHIEF TECHNOLOGY OFFICER
+    Director de Tecnología
+}
+
+class CCO {
+    CHIEF COMMUNICATIONS OFFICER
+    Director de Comunicaciones
+}
+
+class CDO {
+    CHIEF DIGITAL OFFICER
+    Director Digital
+    ---
+    CHIEF DESIGN OFFICER
+    Director de Diseño
+    ---
+    CHIEF DIVERSITY OFFICER
+    Director de Diversidad
+    ---
+    CHIEF DATA OFFICER 
+    Director digital de la empresa
+
+}
+
+class CGO {
+    CHIEF GROWTH OFFICER
+    Responsable del crecimiento
+}
+
+class CXO {
+    CHIEF CUSTOMER EXPERIENCE OFFICER
+    Director de Experiencia del Cliente
+}
+
+class CRO {
+    CHIEF REMOTE OFFICER
+    Director de teletrabajo
+}
+
+
+
+
+

@@ -35,7 +35,7 @@ A medida que la sociedad en general y las organizaciones en particular se volvie
 
 |La información son los datos tratados que nos permiten llegar al conocimiento|
 |:-:|
-|<img src="../images/piramideDIKW.png" width="40%">|
+|<img src="../../images/piramideDIKW.png" width="40%">|
 |[Conocimiento...](https://docs.google.com/presentation/d/1QJdg8M0iOwv1gxydwcza6X0dkZmrlaxFf1PH87X7gRo/edit?usp=sharing)|
 
 </div>

@@ -2,29 +2,29 @@
 
 ## Introducción
 
-- [x] [Introducción a la asignatura](t00-00-00-introduccion.md)
+- [x] [Introducción a la asignatura](00-introduccion/t00-00-00-introduccion.md)
 
-## [Modelos de negocio e innovación](./t01-00-00-modelosDeNegocioInnovacion.md)
+## [Modelos de negocio e innovación](01-modelosDeNegocioInnovacion/t01-00-00-modelosDeNegocioInnovacion.md)
 
-- [x] [Economía Digital](t01-01-00-economiaDigital.md)
-- [x] [Herramientas y marcos de trabajo](t01-02-00-herramientasMarcos.md)
-  - [x] [El lienzo de modelo de negocio](t01-02-01-lienzoModeloNegocio.md)
-  - [x] [Análisis DAFO](t01-02-02-analisisDAFO.md)
-  - [x] [Otros marcos de trabajo](t01-02-03-algunosMarcos.md)
-- [x] [Innovación](t01-03-00-innovacion.md)
-  - [x] [Tipos de Innovación](t01-03-01-innovacionTipos.md)
-  - [x] [El Modelo de Innovación como proceso](t01-03-02-innovacionComoProceso.md)
-  - [x] [Estrategia de Océano Azul](t01-03-03-innovacionOceanoAzul.md)
+- [x] [Economía Digital](01-modelosDeNegocioInnovacion/t01-01-00-economiaDigital.md)
+- [x] [Herramientas y marcos de trabajo](01-modelosDeNegocioInnovacion/t01-02-00-herramientasMarcos.md)
+  - [x] [El lienzo de modelo de negocio](01-modelosDeNegocioInnovacion/t01-02-01-lienzoModeloNegocio.md)
+  - [x] [Análisis DAFO](01-modelosDeNegocioInnovacion/t01-02-02-analisisDAFO.md)
+  - [x] [Otros marcos de trabajo](01-modelosDeNegocioInnovacion/t01-02-03-algunosMarcos.md)
+- [x] [Innovación](01-modelosDeNegocioInnovacion/t01-03-00-innovacion.md)
+  - [x] [Tipos de Innovación](01-modelosDeNegocioInnovacion/t01-03-01-innovacionTipos.md)
+  - [x] [El Modelo de Innovación como proceso](01-modelosDeNegocioInnovacion/t01-03-02-innovacionComoProceso.md)
+  - [x] [Estrategia de Océano Azul](01-modelosDeNegocioInnovacion/t01-03-03-innovacionOceanoAzul.md)
 
-## [Funciones de la dirección de sistemas de información](t02-00-00-funcionesDSI.md)
+## [Funciones de la dirección de sistemas de información](02-acercaDeLaDSI/t02-00-00-funcionesDSI.md)
 
-- [x] [Definición de Sistemas de la información en las organizaciones](t02-01-00-definicion.md)
-- [ ] [Evolución histórica](t02-02-00-evolucion.md)
-- [x] [Componentes](t02-03-00-componentes.md)
-- [ ] [Personas: como nos organizamos](t02-04-00-personas.md)
-  - [x] [Funciones](t02-04-00-s01-funciones.md)
-  - [x] [Conocimiento](t02-04-00-s02-conocimiento.md)
-- [ ] [Actividades de la DSI](t02-05-00-actividades.md)
+- [x] [Definición de Sistemas de la información en las organizaciones](02-acercaDeLaDSI/t02-01-00-definicion.md)
+- [ ] [Evolución histórica](02-acercaDeLaDSI/t02-02-00-evolucion.md)
+- [x] [Componentes](02-acercaDeLaDSI/t02-03-00-componentes.md)
+- [ ] [Personas: como nos organizamos](02-acercaDeLaDSI/t02-04-00-personas.md)
+  - [x] [Funciones](02-acercaDeLaDSI/t02-04-00-s01-funciones.md)
+  - [x] [Conocimiento](02-acercaDeLaDSI/t02-04-00-s02-conocimiento.md)
+- [ ] [Actividades de la DSI](02-acercaDeLaDSI/t02-05-00-actividades.md)
 
 ## Estrategia y planificación de los sistemas de información
 
