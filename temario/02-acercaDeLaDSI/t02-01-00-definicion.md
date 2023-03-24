@@ -76,3 +76,7 @@ Captura o recolecta datos en bruto tanto del interior de la organización como d
 
 
 ## Enlaces externos & bibliografía
+
+1. [Libro DSI - UNEATLANTICO](https://campus.uneatlantico.es/pluginfile.php/68989/mod_folder/content/0/Libro%20DSI%20-%20UNEATLANTICO.pdf?forcedownload=1) - Capítulo 1 - Sección 1.2
+
+### Lecturas relacionadas
