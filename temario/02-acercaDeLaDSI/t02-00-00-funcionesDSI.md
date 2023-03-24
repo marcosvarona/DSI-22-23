@@ -29,3 +29,7 @@ Conociendo su definición, cómo ha evolucionado, con qué elementos y cómo se 
 
 
 ## Enlaces externos & bibliografía
+
+1. [Libro DSI - UNEATLANTICO](https://campus.uneatlantico.es/pluginfile.php/68989/mod_folder/content/0/Libro%20DSI%20-%20UNEATLANTICO.pdf?forcedownload=1) - Capítulo 1
+
+### Lecturas relacionadas
