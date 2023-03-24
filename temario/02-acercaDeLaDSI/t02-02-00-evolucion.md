@@ -43,3 +43,7 @@ Más por menos||Crecimiento del negocio|Datos, IA
 
 
 ## Enlaces externos & bibliografía
+
+1. [Libro DSI - UNEATLANTICO](https://campus.uneatlantico.es/pluginfile.php/68989/mod_folder/content/0/Libro%20DSI%20-%20UNEATLANTICO.pdf?forcedownload=1) - Capítulo 1 - Secciones 1.3 (*Evolución histórica de las TI*) y 1.4 (*Evolución histórica de los sistemas de información*)
+
+### Lecturas relacionadas
