@@ -12,11 +12,11 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 [Proyectos que abordaremos](docs/README.md)|Parte de la evaluación continua.
 [Un número al día](docs/unNumeroAlDia.md)|Un número al día...
 
-## Herramientas
+## Herramientas, links et at
 
 * [Espacio de la asignatura en el campus Virtual](https://campus.uneatlantico.es/course/view.php?id=2314)
 * Este [repo@github](https://github.com/mmasias)
-* [Notion](https://www.notion.so)
-* [Miro](https://miro.com/)
-* Ofimática@Cloud: [Google](https://drive.google.com/) / [Microsoft](https://www.office.com/?auth=1) / [Zoho Docs](https://workdrive.zoho.eu/home)
-* [PlantUML](https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000), herramienta de modelado empleada en varios de los esquemas de este repo. *[Brevísima explicación de su uso en este escenario](/docs/plantUMLHowTo.md)*
+* [**Notion**](https://www.notion.so) & [**Miro**](https://miro.com/)
+* Ofimática@Cloud: [**Google**](https://drive.google.com/) / [**Microsoft**](https://www.office.com/?auth=1) / [**Zoho Docs**](https://workdrive.zoho.eu/home)
+* [**PlantUML**](https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000), herramienta de modelado empleada en varios de los esquemas de este repo. *[Brevísima explicación de su uso en este escenario](/docs/plantUMLHowTo.md)*
+* **[Web Almanac](https://almanac.httparchive.org/es/2022/)**:  Web Almanac es un informe exhaustivo sobre el estado de la web, respaldado por datos reales y expertos web de confianza. La edición de 2022 consta de 23 capítulos que abarcan aspectos del contenido de la página, la experiencia del usuario, la publicación y la distribución.
