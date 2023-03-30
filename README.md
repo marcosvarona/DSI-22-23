@@ -20,3 +20,5 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 * Ofimática@Cloud: [**Google**](https://drive.google.com/) / [**Microsoft**](https://www.office.com/?auth=1) / [**Zoho Docs**](https://workdrive.zoho.eu/home)
 * [**PlantUML**](https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000), herramienta de modelado empleada en varios de los esquemas de este repo. *[Brevísima explicación de su uso en este escenario](/docs/plantUMLHowTo.md)*
 * **[Web Almanac](https://almanac.httparchive.org/es/2022/)**:  Web Almanac es un informe exhaustivo sobre el estado de la web, respaldado por datos reales y expertos web de confianza. La edición de 2022 consta de 23 capítulos que abarcan aspectos del contenido de la página, la experiencia del usuario, la publicación y la distribución.
+* [**30 de los mejores memorandos de información confidencial (pitch deck)**](https://venngage.com/blog/best-pitch-decks/), incluyendo los de Facebook, Tik Tok, Airbnb entre otros...
+
