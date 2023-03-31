@@ -29,6 +29,7 @@
 ## Estrategia y planificación de los sistemas de información
 
 - [x] [Transformación digital](03-transformacionDigital/t03-01-00-transformacionDigital.md)
+- [ ] [Etapas](./03-transformacionDigital/t03-03-00-etapas.md)
 - [ ] La organización: usuarios - clientes
 - [ ] Evolución histórica
 - [ ] Planificación de las TI
