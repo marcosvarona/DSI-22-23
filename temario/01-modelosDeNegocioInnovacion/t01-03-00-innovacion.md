@@ -76,3 +76,10 @@ As usual, hay varios modelos. Por citar dos:
 ### Lecturas relacionadas
 
 - [How Microsoft Became Innovative Again](https://hbr.org/2023/02/how-microsoft-became-innovative-again), *Behnam Tabrizi* Harvard Business Review [![@TabriziBehnam](https://img.shields.io/badge/-@TabriziBehnam-000?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/TabriziBehnam)
+
+### Barreras a la innovación
+
+Fuente: informe [La innovación en la empresa española](https://apd-prod-wordpress.s3.amazonaws.com/uploads/sites/2/2023/02/informe_la_innovacion_en_la_empresa_espanola_apd_cesin.pdf) (2023)
+
+![image](https://user-images.githubusercontent.com/8528047/229054610-b7985905-d493-4071-ada9-a0769a4c77b3.png)
+
