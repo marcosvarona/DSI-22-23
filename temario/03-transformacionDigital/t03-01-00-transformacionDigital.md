@@ -1,12 +1,5 @@
 # Transformación digital
 
-- [¿Por qué?](#por-qu%C3%A9)
-- [¿Qué?](#qu%C3%A9)
-- [¿Para qué?](#para-qu%C3%A9)
-- [¿Cómo?](#c%C3%B3mo)
-
-<hr />
-
 ## ¿Por qué?
 
 - La tecnología evoluciona a alta velocidad.
@@ -61,6 +54,17 @@ Incrementar la competitividad|Las empresas que adoptan la transformación digita
 - Fomentar la colaboración y el aprendizaje continuo: Promover la colaboración entre empleados y departamentos, así como el aprendizaje y la adaptación constante a medida que la organización avanza en su proceso de transformación digital. Esto ayudará a mantener a la empresa ágil y preparada para enfrentar desafíos futuros.
 
 ## A tener en cuenta
+
+### CIO como actor fundamental
+
+Dado que es quien aterriza la estrategia general de la empresa en la estrategia de los SI, definiendo (en función al momento empresarial):
+
+- Control y reducción de costes.
+- Innovación en nuevos productos.
+- Mejora de los tiempos y automatización de procesos.
+- Reducción de las inversiones a largo plazo y sustitución por costes variables.
+- Transformación digital.
+- *et al*...
 
 
 ## Enlaces externos & bibliografía
