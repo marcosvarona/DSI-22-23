@@ -1,6 +1,6 @@
 # Errores en los datos a evitar
 
-Basado en el documento de [Geckoboard](https://www.geckoboard.com/assets/img/data_fallacies/Geckoboard-Data-Fallacies-Poster.pdf)
+Basado en el documento de [Geckoboard](https://www.geckoboard.com/assets/img/data_fallacies/Geckoboard-Data-Fallacies-Poster.pdf), leído además en [KDNuggets](https://www.kdnuggets.com/2017/12/4-common-data-fallacies.html) y con un [📺 también](https://www.youtube.com/watch?v=ebEkn-BiW5k)
 
 |||ADE|Ingeniería
 -|-|-|-|
