@@ -1,12 +1,5 @@
 # Transformación digital
 
-- [¿Por qué?](#por-qu%C3%A9)
-- [¿Qué?](#qu%C3%A9)
-- [¿Para qué?](#para-qu%C3%A9)
-- [¿Cómo?](#c%C3%B3mo)
-
-<hr />
-
 ## ¿Por qué?
 
 - La tecnología evoluciona a alta velocidad.
