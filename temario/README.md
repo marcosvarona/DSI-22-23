@@ -28,14 +28,15 @@
 
 ## Estrategia y planificación de los sistemas de información
 
-- [x] [Transformación digital](/temario/03-transformacionDigital/t03-01-00-transformacionDigital.md)
+- [x] [Transformación digital](03-transformacionDigital/t03-01-00-transformacionDigital.md)
+- [ ] [Etapas](./03-transformacionDigital/t03-03-00-etapas.md)
 - [ ] La organización: usuarios - clientes
 - [ ] Evolución histórica
 - [ ] Planificación de las TI
-- [ ] Selección de la arquitectura empresarial. Caso: Mercado Libre
+- [ ] Selección de la arquitectura empresarial
 - [ ] Evaluación, gestión y control de proyectos
 - [ ] El capital humano de TI
-- [ ] El rol del CIO
+- [ ] [El rol del CIO](03-transformacionDigital/t03-02-00-rolDelCIO.md)
 
 
 

@@ -3,6 +3,10 @@
 
 # Tipos de innovación
 
+La clasificación, como siempre, se hace desde un perspectiva teórica, a fines de facilitar su estudio y manteniendo constantes un conjunto de elementos que en la realidad no suelen serlo, cosa que muchas veces complica el aterrizaje de un elemento o actividad innovadora en un único "tipo": que esto no le frene.
+
+## Una clasificación propuesta:
+
 |Tipo|Ejemplo|Core|Antes
 -|-|-|-
 Tecnológica|1º iPhone|Desarrollo de una pantalla táctil capacitiva, una batería de larga duración y un procesador rápido que permitiera a los usuarios realizar múltiples tareas al mismo tiempo. Además, el iPhone introdujo la tienda de aplicaciones de Apple, que permitió a los desarrolladores de software crear y distribuir aplicaciones para el dispositivo, lo que llevó a una explosión en el número y la diversidad de aplicaciones disponibles para los usuarios.|Teclados físicos, pantallas pequeñas y limitadas en términos de capacidad de visualización y navegación.
@@ -12,3 +16,16 @@ En la gestión de las relaciones con el cliente|Los chatbots|Capacidad de propor
 De servicios|Servicio de suscripción mensual para la entrega de productos de cuidado personal|Los clientes pueden suscribirse a un servicio mensual en el que reciben una selección de productos de cuidado personal, entregados directamente en su puerta.|Compra de productos en tiendas físicas o en línea.
 Organizacional|Metodología Ágil|Se enfoca en la colaboración, la comunicación, la adaptabilidad y la entrega de resultados en ciclos cortos y frecuentes: en lugar de planificar todo el proyecto de antemano, Agile se basa en la flexibilidad para responder a los cambios en los requisitos del proyecto y en la retroalimentación del cliente durante todo el proceso de desarrollo.|Solía utilizarse en enfoque de Cascada, que tiene como objetivo la perfección de la planificación y diseño antes de la implementación.
 De modelo de negocio|Starbucks| Experiencia en torno a la bebida, con baristas capacitados, además de ofrecer recomendaciones personalizadas y preparar la bebida de acuerdo con las preferencias del cliente. Asimismo ofrece productos complementarios, como alimentos, tazas y otros accesorios, en lugar de centrarse únicamente en la venta de café.|Antes de la aparición de Starbucks, las cafeterías tradicionales se centraban en vender café y otros productos alimenticios en un ambiente simple.
+
+## Otra clasificación propuesta
+
+|||
+-|-
+Incremental|Representa acciones que buscan mejorar o añadir valor a los procesos, productos y servicios existentes sin promover cambios muy bruscos. Normalmente se produce en un área específica de la compañía, como añadir un nuevo recurso a un producto u ofrecer mejoras, ya sea para los empleados, los clientes o los atributos del negocio.
+Radical|Cambiar el escenario de una marca y promover transformaciones reales en el mercado. Permite un cambio completo en el posicionamiento de la compañía en relación con el trabajo, los procesos, los servicios, los productos ofrecidos, la relación con el cliente y otros. Un ejemplo: el iPhone.
+Disruptiva|Es el fenómeno por el que una innovación transforma un mercado o un sector. Los cambios no se producen necesariamente en el producto o servicio en sí, sino en la forma en que se ponen a disposición del público, cambiando la forma en que la gente se comporta con esa solución. Cuando un nicho de mercado ya está obsoleto —o se mantiene constante sin crecimiento—, la innovación disruptiva puede surgir en este contexto. Un caso evidente es el del sector de la movilidad y el transporte.
+Abierta|El proceso de innovación gira en torno al libre tránsito de ideas, en busca de soluciones empresariales más allá de las fronteras corporativas, a partir de asociaciones con otras organizaciones e instituciones de investigación. La innovación abierta supone que las empresas pueden y deben utilizar ideas y vías tanto externas como internas para avanzar en su proceso de innovación. En España, por ejemplo, creció este modelo durante el inicio de la pandemia para la fabricación de respiradores.
+Cerrada|Se basa en la creencia de que las soluciones pueden surgir de los recursos internos disponibles en una compañía. Las ideas suelen provenir de los jefes de proyecto y sus seguidores. Una compañía que opta por mantener sus esfuerzos de innovación cerrados tiene sus proyectos desarrollados solo dentro de unos límites claramente definidos. El know-how, la tecnología, los procesos y la propiedad intelectual permanecen bajo su propio control.
+Ágil o Agile|Significa que las ideas se ponen en práctica mediante la colaboración y los bucles iterativos de creación de prototipos. Gracias a la adaptabilidad de los procesos de innovación ágiles, las innovaciones pueden llegar al mercado y aplicarse más rápidamente.
+
+(Fuente: [*GUÍA DEFINITIVA DE LA INNOVACIÓN EN LA EMPRESA ESPAÑOLA*](https://apd-prod-wordpress.s3.amazonaws.com/uploads/sites/2/2023/03/ebook-innovacion-gmv-apd.pdf))

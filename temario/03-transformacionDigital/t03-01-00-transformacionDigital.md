@@ -55,5 +55,16 @@ Incrementar la competitividad|Las empresas que adoptan la transformación digita
 
 ## A tener en cuenta
 
+### CIO como actor fundamental
+
+Dado que es quien aterriza la estrategia general de la empresa en la estrategia de los SI, definiendo (en función al momento empresarial):
+
+- Control y reducción de costes.
+- Innovación en nuevos productos.
+- Mejora de los tiempos y automatización de procesos.
+- Reducción de las inversiones a largo plazo y sustitución por costes variables.
+- Transformación digital.
+- *et al*...
+
 
 ## Enlaces externos & bibliografía
