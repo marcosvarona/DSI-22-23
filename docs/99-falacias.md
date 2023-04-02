@@ -2,7 +2,7 @@
 
 Basado en el documento de [Geckoboard](https://www.geckoboard.com/assets/img/data_fallacies/Geckoboard-Data-Fallacies-Poster.pdf), leído además en [KDNuggets](https://www.kdnuggets.com/2017/12/4-common-data-fallacies.html) y con un [📺 también](https://www.youtube.com/watch?v=ebEkn-BiW5k)
 
-|||ADE|Ingeniería
+|Falacia|Descripción|Un ejemplo|Otro ejemplo
 -|-|-|-|
 Cosecha selectiva (Cherry Picking)|Seleccionar resultados que se ajustan a tu afirmación y excluir aquellos que no lo hacen.|Un CEO de una empresa de tecnología selecciona solo los datos financieros positivos de su compañía para presentarlos a los inversores, omitiendo las métricas negativas.|Un ingeniero selecciona solo los datos de resistencia de los materiales que cumplen con las especificaciones, mientras ignora los datos que no cumplen con ellas, lo que puede llevar a una mala evaluación de la calidad del material.
 Extracción de datos (Data Dredging)|Probar repetidamente nuevas hipótesis contra el mismo conjunto de datos, sin reconocer que la mayoría de las correlaciones serán resultado del azar.|
